@@ -1,0 +1,52 @@
+﻿l_english:
+
+ modern_fire_control_system:0 "Modern Fire Control System"
+ modern_fire_control_system_desc:0 "By entering course, speed and distance of a target, a modern mechanical computer can more accurately predict where the target will be when the next salvo is ready to fire."
+ 
+ modern_decryption:0 "Decryption - Block Cipher Analysis"
+ modern_decryption_desc:0 "Block Cipher Analysis is a technique used to break encrypted messages by analyzing the pattern of blocks of characters in the message. By identifying common patterns and using statistical analysis, the cipher can be deciphered, revealing the original message."
+ 
+ modern_encryption:0 "Encryption - Advanced Encryption Standard"
+ modern_encryption_desc:0 "AES is a widely used symmetric encryption algorithm that is considered secure and is used to protect sensitive data. It operates on fixed block sizes of 128 bits and uses a variable key size of 128, 192, or 256 bits. AES has been adopted by many organizations and is used in various applications, including file encryption, disk encryption, and secure communications."
+ 
+ concentrated_industry6:0 "Concentrated Industry VI"
+ concentrated_industry6_desc:0 "There have been major leaps forward in automation and production efficiency. With cutting-edge technologies and refined processes, it is able to significantly reduce costs and increase output. This new level of automation allows for streamlined and efficient operations, giving your industry a competitive edge in the global marketplace."
+ 
+ dispersed_industry6:0 "Dispersed Industry VI"
+ dispersed_industry6_desc:0 "Integration of advanced tech and secure communication improves industry protection, making it impossible to locate and destroy through aerial attacks, ensuring successful operations."
+ 
+ modern_equipment_conversion:0 "Modern Equipment Conversion"
+ modern_equipment_conversion_desc:0 "With state-of-the-art retrofitting processes and specialized teams, it is possible to quickly and efficiently upgrade outdated weapons and vehicles to the latest standards."
+
+ improved_modern_oil_processing:0 "Improved Modern Oil Processing"
+ improved_modern_oil_processing_desc:1 "Our oil refinineries can be modernized using advanced techniques, including thermal cracking and solvent deasphalting, to boost yields and increase efficiency."
+ 
+ flexible_line2:0 "Improved Flexible Line"
+ flexible_line2_desc:0 "Advanced automation and robotics enhance human adaptability in production, providing increased efficiency and quick response to changes. A significant boost to industrial competitiveness is achieved."
+ 
+ streamlined_line2:0 "Improved Streamlined Line"
+ streamlined_line2_desc:0 "Cutting-edge automation and robotics increase standardization, structure, safety, and efficiency in production, resulting in a significant boost to competitiveness."
+ 
+ construction6:0 "Construction VI"
+ construction6_desc:0 "The construction process is streamlined with the latest technology and advances in project planning, resulting in faster, more reliable, and efficient outcomes with reduced waste."
+
+ excavation6:0 "Excavation VI"
+ excavation6_desc:0 "Resource extraction becomes more efficient and sustainable with the use of advanced automation and robotics technologies, yielding greater quantities with less waste and environmental impact."
+ 
+ improved_modern_rubber_processing:0 "Improved Modern Rubber Processing"
+ improved_modern_rubber_processing_desc:1 "Polymerization processes are optimized with the latest technology, reducing costs and increasing output, resulting in a more efficient and effective rubber processing industry."
+ 
+ fuel_refining6:0 "Fuel Refining VI"
+ fuel_refining6_desc:0 "Fuel refining becomes even more efficient with innovative designs and advanced technologies, increasing throughput and reducing wastage."
+
+ modern_centimetric_radar:0 "Modern Centimetric Radar"
+ modern_centimetric_radar_desc:0 "Limitations in current radar technology are overcome with advanced techniques such as FMCW and pulse-compression, resulting in a more advanced and effective system."
+ 
+ improved_modern_centimetric_radar:0 "Improved Modern Centimetric Radar"
+ improved_modern_centimetric_radar_desc:0 "Advanced Centimetric Radar technology utilizes plan position indicator (PPI) and moving target indicator (MTI) techniques to greatly improve target detection and tracking."
+ 
+ modern_computing_machine:0 "Modern Computing Machine"
+ modern_computing_machine_desc:0 "Improvements in computer design and functionality by utilizing new technologies such as vacuum tubes, magnetic drum memory, and assembly languages. This leads to greater capabilities and more efficient use in various industries."
+ 
+ ship_fire_control_system_4:0 "Mark 37 Gun Fire Control System"
+ ship_fire_control_system_4_desc:0 "A modern mechanical computer can track the course, speed, and distance of a target which allows increased target engagement and weapon accuracy."

@@ -1,0 +1,133 @@
+﻿l_english:
+
+ ship_radar_5:0 "Aegis Combat System"
+ ship_radar_5_short:0 "Radar V"
+ ship_radar_5_desc:0 "Naval radar technology has continuously improved in the 1940s, with advancements such as the integration of cavity magnetrons and operating in the centimeter wavelength range. These upgrades enable accurate detection of small targets, blind-fire against targets, and highly accurate gunfire control in all weather conditions, greatly enhancing naval capabilities."
+ 
+ air_ground_radar_3:0 "Air-Ground Radar III"
+ air_ground_radar_3_desc:0 "Designed for use on fighter-bomber aircraft, this module combines an airborne radar set with a ground-mapping system, enabling pilots to locate targets on the ground with greater accuracy. The improved resolution and range of this system allows for precision bombing and strafing in all weather conditions, increasing the effectiveness of air support for ground troops."
+ 
+ air_air_radar_3:0 "Anti-Air Radar III"
+ air_air_radar_3_desc:0 "An advanced airborne radar system equipped with more powerful transmitters, increased range, and improved resolution, enabling detection and tracking of airborne targets even in darkness or poor weather conditions."
+ 
+ radio_navigation_3:0 "Radio Navigation III"
+ radio_navigation_3_desc:0 "This advanced radio receiver module includes distance measuring aides, allowing precise targeting of airborne and ground-based targets even in complete darkness or adverse weather conditions. It significantly improves upon previous models with increased accuracy, reliability, and range, enabling precise navigation and targeting for aircrews."
+ 
+ modern_fire_control_system:0 "Modern Fire Control System"
+ modern_fire_control_system_desc:0 "By entering course, speed and distance of a target, a modern mechanical computer can more accurately predict where the target will be when the next salvo is ready to fire."
+ 
+ bomb_sights_3:0 "Bomb Sights III"
+ bomb_sights_3_desc:0 "This bomb sight incorporates an electrical interface, allowing for more precise and automated calculations of target data. It also includes a more advanced stabilization system, allowing for accurate bombing even in turbulent conditions. With increased computing power, it can calculate trajectories for a variety of bombs and release mechanisms."
+ 
+ advanced_sonar:0 "Improved Active Sonar"
+ advanced_sonar_desc:0 "Featuring higher frequency sound waves and improved signal processing, this sonar system offers increased accuracy in detecting and locating submerged targets.\n\nMounting this module in an §YElectronics Slot§! on §YLight Ships§! or §YCruisers§! will help them detect enemy §YSubmarines§!."
+ 
+ modern_sonar:0 "Advanced Active Sonar"
+ modern_sonar_desc:0 "Incorporating the latest advancements in sonar technology, this system can detect and track multiple underwater targets simultaneously at greater ranges and with greater accuracy.\n\nMounting this module in an §YElectronics Slot§! on §YLight Ships§! or §YCruisers§! will help them detect enemy §YSubmarines§!."
+ 
+ ship_sonar_3:0 "Improved Active Sonar"
+ ship_sonar_3_desc:0 "Using modulated sound waves, this system can accurately measure the range and bearing of a submerged target, and can even distinguish between multiple targets in the same area."
+ 
+ ship_sonar_4:0 "Advanced Active Sonar"
+ ship_sonar_4_desc:0 "An advanced sonar system utilizing digital signal processing and advanced algorithms to filter out unwanted noise and improve the detection and tracking of submerged targets, even in challenging environments."
+ 
+ drop_tanks_2:0 "Drop Tanks II"
+ drop_tanks_2_desc:0 "Larger and more advanced drop tanks with increased fuel capacity provide even greater range and endurance for our fighters on offensive missions. Their streamlined design reduces drag and minimizes the impact on combat performance."
+ 
+ drop_tanks_3:0 "Drop Tanks III"
+ drop_tanks_3_desc:0 "The most advanced drop tanks yet, equipped with specialized fuel pumps and improved tank design, enable our fighters to reach unprecedented ranges and operate in faraway theaters of war. These tanks are optimized for performance and can be dropped mid-flight without compromising safety or combat capabilities."
+ 
+ range_improvements:0 "Range Improvements I"
+ 
+ improved_range_improvements:0 "Range Improvements II"
+ improved_range_improvements_desc:0 "In addition to increasing fuel capacity, this modification improves the plane's aerodynamics and engine efficiency, resulting in even greater range improvements while maintaining performance."
+ 
+ advanced_range_improvements:0 "Range Improvements III"
+ advanced_range_improvements_desc:0 "Using lightweight materials and advanced engineering techniques, this modification allows for a significant increase in fuel capacity without negatively impacting the plane's performance or maneuverability."
+ 
+ improved_electric_torpedo:0 "Improved Electric Torpedo"
+ improved_electric_torpedo_desc:0 "An improvement over the earlier electric torpedo, this model features a more powerful engine and a longer range. It is also equipped with a magnetic exploder that allows it to detonate upon coming into proximity with a target, increasing its accuracy."
+ 
+ fuel_tanks_small_2:0 "Improved Extra Fuel Tanks"
+ fuel_tanks_small_2_desc:0 "An improved design of fuel tanks allows for increased range without heavily compromising the plane's maneuverability, and includes improved fire suppression systems to reduce the risk of fire."
+ 
+ fuel_tanks_small_3:0 "Advanced Extra Fuel Tanks"
+ fuel_tanks_small_3_desc:0 "The latest generation of extra fuel tanks utilizes advanced composite materials, reducing the added weight and fire risk while providing even greater fuel capacity, allowing planes to travel longer distances without refueling."
+ 
+ fuel_tanks_medium_2:0 "Improved Extra Fuel Tanks"
+ fuel_tanks_medium_2_desc:0 "An improved design of fuel tanks allows for increased range without heavily compromising the plane's maneuverability, and includes improved fire suppression systems to reduce the risk of fire."
+ 
+ fuel_tanks_medium_3:0 "Advanced Extra Fuel Tanks"
+ fuel_tanks_medium_3_desc:0 "The latest generation of extra fuel tanks utilizes advanced composite materials, reducing the added weight and fire risk while providing even greater fuel capacity, allowing planes to travel longer distances without refueling."
+ 
+ fuel_tanks_large_2:0 "Improved Extra Fuel Tanks"
+ fuel_tanks_large_2_desc:0 "An improved design of fuel tanks allows for increased range without heavily compromising the plane's maneuverability, and includes improved fire suppression systems to reduce the risk of fire."
+ 
+ fuel_tanks_large_3:0 "Advanced Extra Fuel Tanks"
+ fuel_tanks_large_3_desc:0 "The latest generation of extra fuel tanks utilizes advanced composite materials, reducing the added weight and fire risk while providing even greater fuel capacity, allowing planes to travel longer distances without refueling."
+ 
+ improved_heavy_mg_2x:0 "2x Improved Heavy Machine Gun"
+ improved_heavy_mg_2x_desc:0 "A pair of improved heavy machine guns allows penetrating the toughened outer skin of modern airplanes even better than its predecessor."
+ 
+ improved_heavy_mg_4x:0 "4x Improved Heavy Machine Gun"
+ improved_heavy_mg_4x_desc:0 "A quartet of improved heavy machine guns offers even more horrifying firepower, both in individual performance and in sheer volume of fire."
+ 
+ improved_hmg_defense_turret:0 "Improved Heavy MG Defense Turret"
+ improved_hmg_defense_turret_desc:0 "This upgraded heavy machine gun defense turret has advanced targeting systems, increased firepower, and an efficient cooling system, enabling it to engage enemy aircraft with greater accuracy and for longer periods. It also has a stable and durable platform for better protection and flexibility in positioning."
+ 
+ improved_hmg_defense_turret_2x:0 "Improved Heavy MG Defense Turret 2x"
+ improved_hmg_defense_turret_2x_desc:0 "A pair of automated turrets each armed with heavy machine guns that can effectively engage attacking aircraft, providing a formidable defense against air attacks."
+ 
+ aa_ihmg:0 "Improved Heavy MG"
+ aa_ihmg_desc:0 "Building on the success of the previous model, the improved heavy machine gun boasts even larger caliber rounds, delivering devastating firepower to enemy aircraft. Its improved design also increases accuracy and rate of fire, allowing for greater precision in targeting and more rounds on target in a shorter amount of time."
+ 
+ damage_control_4:0 "Emergency Hull Patches"
+ damage_control_4_desc:0 "A new damage control technology involves the use of lightweight materials that can be quickly applied to damaged areas of the ship, providing temporary but effective hull patches that allow the ship to continue operating while repairs are being made."
+ 
+ fire_control_methods_4:0 "Automated Fire Suppression Systems"
+ fire_control_methods_4_desc:0 "Improved fire suppression system that quickly detects and extinguishes fires to minimize damage and protect personnel."
+ 
+ degaussing_2:0 "Improved Degaussing"
+ degaussing_2_desc:0 "By installing upgraded electro-magnetic coils, a ship's magnetic signature can be reduced further, making it nearly invisible to magnetic mines."
+ 
+ advanced_submarine_mine_laying:0 "Improved Torpedo-tube Mine Deployment"
+ advanced_submarine_mine_laying_desc:0 "Enhanced Torpedo-tube Mine Deployment technology optimizes the design and functionality of mines for seamless integration into torpedo tubes, expanding the minelaying capabilities of submarines. This advancement ensures efficient deployment of mines while maintaining a balanced inventory of torpedoes."
+ 
+ advanced_airplane_launcher:0 "Advanced Airplane Catapult"
+ advanced_airplane_launcher_desc:0 "An advanced pneumatic mechanism allows much larger airplanes to be launched via catapult. This increases their search radius further\n\nMounting this module on §YCruisers§!, §YHeavy Ships§! or specialized §YSubmarines§! improves their ability to detect enemy ships."
+ 
+ modern_airplane_launcher:0 "Modern Airplane Catapult"
+ modern_airplane_launcher_desc:0 "A modern pneumatic mechanism allows much larger airplanes to be launched via catapult. This increases their search radius even further\n\nMounting this module on §YCruisers§!, §YHeavy Ships§! or specialized §YSubmarines§! improves their ability to detect enemy ships."
+ 
+ improved_modern_airplane_launcher:0 "Improved Modern Airplane Catapult"
+ improved_modern_airplane_launcher_desc:0 "An improvement on the modern pneumatic mechanism which allows much larger airplanes to be launched via catapult. This increases their search radius even further past the previous generation\n\nMounting this module on §YCruisers§!, §YHeavy Ships§! or specialized §YSubmarines§! improves their ability to detect enemy ships."
+ 
+ ship_airplane_launcher_3:0 "Advanced Floatplane Catapult"
+ ship_airplane_launcher_3_desc:0 "An advanced launch mechanism that allows the ship to launch a much larger plane with increased range and speed."
+ 
+ ship_airplane_launcher_4:0 "Modern Floatplane Catapult"
+ ship_airplane_launcher_4_desc:0 "A modern launch mechanism that allows the ship to launch a much larger plane with further increased range and speed."
+ 
+ ship_airplane_launcher_5:0 "Improved Modern Floatplane Catapult"
+ ship_airplane_launcher_5_desc:0 "An improvement on the modern launch mechanism that allows the ship to launch a much larger plane with even further increased range and speed."
+ 
+ advanced_heavy_armor_scheme:0 "Improved All-or-Nothing Armor Scheme"
+ advanced_heavy_armor_scheme_desc:0 "This scheme doubles down on only protecting the most vital areas of the ship, while ignoring the unimportant parts.\n\nMounting this module on §YHeavy Ships§! improves their ability to §Ywithstand enemy damage§!. §YBattleships§! and §YBattlecruisers§! are defined by their different §YArmor Schemes§!."
+ 
+ ship_anti_air_5:0 "40mm Quad AA Mk. II"
+ ship_anti_air_5_desc:0 "An improvement on the original 40mm Quad AA featuring an improved powered mount able to track and elminate targets even quicker with even higher accuracy."
+ 
+ ship_armor_bb_4:0 "355mm Belt/135mm Deck"
+ ship_armor_bb_4_desc:0 "An improvement on the previous armor scheme, this one comes with even heavier fortification of the central citadel at a higher cost to manufacture."
+ 
+ ship_armor_bc_4:0 "335mm Belt/135mm Deck"
+ ship_armor_bc_4_desc:0 "An improvement on the previous armor shceme, improvements have been made to managing the weight constraints allowing for more armor at the same weight."
+ 
+ ship_armor_cruiser_5:0 "155mm Belt/95mm Deck"
+ ship_armor_cruiser_5_desc:0 "This armor scheme maximizes proctection over the vital areas of the ship, while leaving the non-vital areas to fend for themselves."
+ 
+ scout_plane3:0 "Scout Plane III"
+ scout_plane3_desc:0 "By developing dedicated planes for aerial surveillance and long-range reconnaissance, we ensure that we gain and maintain an accurate picture of our opponent's intentions and capabilities."
+ 
+ scout_plane_equipment_3:0 "Scout Plane III"
+ scout_plane_equipment_3_desc:0 "By developing dedicated planes for aerial surveillance and long-range reconnaissance, we ensure that we gain and maintain an accurate picture of our opponent's intentions and capabilities."
