@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_agency_encryption_custom"
+		texturefile = "gfx/interface/operatives/icons/agency_encryption_custom.dds"
+	}
+}
