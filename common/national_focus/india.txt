@@ -471,7 +471,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = RAJ_seek_help_from_soviet
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 25
@@ -940,7 +940,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = RAJ_seek_help_from_germany
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 25
@@ -1030,7 +1030,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = RAJ_seek_help_from_germany
 		dynamic = yes
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 25
@@ -1310,7 +1310,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = RAJ_princely_state_donations
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 25
@@ -1973,7 +1973,7 @@ focus_tree = {
 		y = 3
 		relative_position_id = RAJ_indianisation_of_army
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 25
@@ -2367,7 +2367,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = RAJ_british_pilot_training
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 25
@@ -2644,7 +2644,7 @@ focus_tree = {
 		x = 31
 		y = 0
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 7
@@ -3373,7 +3373,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = RAJ_great_indian_peninsula_railway
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 25
@@ -3433,7 +3433,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = RAJ_east_india_railways
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 25

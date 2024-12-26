@@ -280,7 +280,7 @@
 		y = 2
 		relative_position_id = AST_additional_militia_training
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -393,7 +393,7 @@
 		y = 3
 		relative_position_id = AST_additional_militia_training
 		
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -860,7 +860,7 @@
 		y = 2
 		relative_position_id = AST_expand_the_raaf
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1263,7 +1263,7 @@
 		y = 5
 		relative_position_id = AST_expand_the_raaf
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1450,7 +1450,7 @@
 		y = 5
 		relative_position_id = AST_expand_the_raaf
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1526,7 +1526,7 @@
 		x = 11
 		y = 0
 
-		cost = 5
+		cost = 10
 
 		ai_will_do = {
 			factor = 1
@@ -1598,7 +1598,7 @@
 		x = 2
 		y = 0
 		relative_position_id = AST_cockatoo_island_shipyards
-		cost = 5
+		cost = 10
 
 		ai_will_do = {
 			factor = 1
@@ -1672,7 +1672,7 @@
 		y = 1
 		relative_position_id = AST_cockatoo_island_shipyards
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1936,7 +1936,7 @@
 		x = 16
 		y = 0
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 4
@@ -1970,7 +1970,7 @@
 		y = 0
 		relative_position_id = AST_standard_gauge_railway
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 5
@@ -2563,7 +2563,7 @@
 		y = 1
 		relative_position_id = AST_establish_advisory_war_council
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3065,7 +3065,7 @@
 		y = 3
 		relative_position_id = AST_establish_advisory_war_council
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3618,7 +3618,7 @@
 		y = 4
 		relative_position_id = AST_support_the_policy_of_appeasement
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4021,7 +4021,7 @@
 		y = 3
 		relative_position_id = AST_protect_the_homeland
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2
@@ -4883,7 +4883,7 @@
 		y = 3
 		relative_position_id = AST_empower_the_workers
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 8

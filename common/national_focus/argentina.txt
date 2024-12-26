@@ -317,7 +317,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ARG_british_cooperation
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -355,7 +355,7 @@ focus_tree = {
 		x = -4
 		y = 1
 		relative_position_id = ARG_british_cooperation
-		cost = 5
+		cost = 10
 		available = {
 		}
 
@@ -417,7 +417,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ARG_emphasis_on_public_works
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -535,7 +535,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = ARG_consolidating_power
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -613,7 +613,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ARG_march_to_la_casa_rosada
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -874,7 +874,7 @@ focus_tree = {
 		x = 8
 		y = 1
 		relative_position_id = ARG_cut_ties_with_britain
-		cost = 5
+		cost = 10
 		available = {
 		}
 
@@ -1749,7 +1749,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = ARG_war_division
 		mutually_exclusive = { focus = ARG_argentina_first }
-		cost = 10
+		cost = 5
 		available = {
 			is_subject = no
 			GER = {
@@ -2364,7 +2364,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ARG_release_hellmuth
-		cost = 10
+		cost = 5
 		available = {
 			any_other_country = {
 				original_tag = USA
@@ -2408,7 +2408,7 @@ focus_tree = {
 		x = 6
 		y = 1
 		relative_position_id = ARG_dominate_the_south
-		cost = 5
+		cost = 10
 		available = {
 		}
 
@@ -2617,7 +2617,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ARG_secure_the_borders
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3075,7 +3075,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = ARG_internal_focus
-		cost = 5
+		cost = 10
 		available = {
 			
 		}
@@ -3422,7 +3422,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ARG_seek_american_support
 		mutually_exclusive = { focus = ARG_us_army_training }
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3467,7 +3467,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ARG_us_army_training
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3501,7 +3501,7 @@ focus_tree = {
 		y = 3
 		relative_position_id = ARG_reinforced_alliance
 		mutually_exclusive = { focus = ARG_bastion_of_democracy focus = ARG_maintain_neutrality }
-		cost = 10
+		cost = 5
 		available = {
 			any_country = {
 				is_major = yes
@@ -3592,7 +3592,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ARG_join_the_allies
 		#mutually_exclusive = { focus = ARG_dominate_the_south }
-		cost = 5
+		cost = 10
 		available = {
 		}
 
@@ -3825,7 +3825,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = ARG_envoy_to_london
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3852,7 +3852,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ARG_islas_del_atlantico_sur
-		cost = 10
+		cost = 5
 		available = {
 
 			299 = {
@@ -4573,7 +4573,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ARG_viva_la_revolucion
 		mutually_exclusive = { focus = ARG_align_with_the_soviets }
-		cost = 10
+		cost = 5
 		available = {
 			is_subject = no
 			has_civil_war = no
@@ -4612,7 +4612,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ARG_forge_our_own_future
-		cost = 5
+		cost = 10
 		available = {
 		}
 
@@ -4715,7 +4715,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ARG_viva_la_revolucion
 		mutually_exclusive = { focus = ARG_forge_our_own_future }
-		cost = 10
+		cost = 5
 		available = {
 			has_civil_war = no
 			NOT = { has_war_with = SOU }
@@ -4782,7 +4782,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ARG_align_with_the_soviets
-		cost = 5
+		cost = 10
 		available = {
 		}
 
@@ -5472,7 +5472,7 @@ focus_tree = {
 		x = 34
 		y = 0
 		#relative_position_id =
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -5581,7 +5581,7 @@ focus_tree = {
 		x = -5
 		y = 1
 		relative_position_id = ARG_banco_central_de_la_republica_argentina
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -5669,7 +5669,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ARG_economic_reactivation_act
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -5902,7 +5902,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ARG_expand_steel_extraction
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -6104,7 +6104,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ARG_agricultural_improvements
-		cost = 5
+		cost = 10
 		available = {
 		}
 
