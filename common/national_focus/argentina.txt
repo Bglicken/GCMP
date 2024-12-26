@@ -4856,7 +4856,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ARG_soviet_industrial_model
-		cost = 10
+		cost = 5
 		available = {
 		}
 

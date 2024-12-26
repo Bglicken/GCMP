@@ -40,7 +40,7 @@ focus_tree = {
 		icon = GFX_goal_generic_production2
 		x = 12
 		y = 0
-		cost = 5
+		cost = 10
 
 		available = {
 
@@ -838,7 +838,7 @@ focus_tree = {
 		relative_position_id = BUL_negotiate_bulgarian_rearmament
 		x = 0
 		y = 2
-		cost = 10
+		cost = 5
 
 		available = {
 			if = {
@@ -3003,7 +3003,7 @@ focus_tree = {
 		relative_position_id = BUL_united_front_against_fascism
 		x = 0
 		y = 1
-		cost = 10
+		cost = 5
 
 		available = {
 			OR = {
@@ -3249,7 +3249,7 @@ focus_tree = {
 		relative_position_id = BUL_the_peoples_republic_of_bulgaria
 		x = -2
 		y = 1
-		cost = 10
+		cost = 5
 
 		available = {
 			country_exists = SOU
@@ -4396,7 +4396,7 @@ focus_tree = {
 		relative_position_id = BUL_the_peoples_republic_of_bulgaria
 		x = 2
 		y = 1
-		cost = 10
+		cost = 5
 
 		bypass = {
 			OR = {
@@ -4927,7 +4927,7 @@ focus_tree = {
 		relative_position_id = BUL_legalize_the_agrarian_party
 		x = -1
 		y = 1
-		cost = 10
+		cost = 5
 
 		available = {
 
@@ -5314,7 +5314,7 @@ focus_tree = {
 		relative_position_id = BUL_legislative_elections
 		x = -3
 		y = 1
-		cost = 10
+		cost = 5
 
 		bypass = {
 			OR = {
@@ -5442,7 +5442,7 @@ focus_tree = {
 		relative_position_id = BUL_legislative_elections
 		x = 3
 		y = 1
-		cost = 10
+		cost = 5
 
 		bypass = {
 			OR = {
@@ -8314,7 +8314,7 @@ focus_tree = {
 		relative_position_id = BUL_bulgarian_irredentism
 		x = 2
 		y = 2
-		cost = 10
+		cost = 5
 
 		bypass = {
 			OR = {
@@ -8474,7 +8474,7 @@ focus_tree = {
 		relative_position_id = BUL_approach_germany
 		x = 1
 		y = 1
-		cost = 10
+		cost = 5
 
 		bypass = {
 			OR = {
