@@ -262,7 +262,7 @@
 		x = -3
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_COG_focus_style
 
@@ -1349,7 +1349,7 @@
 		x = -4
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_BEL_COG_focus_style
 
@@ -3062,7 +3062,7 @@
 		x = 0
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_BEL_COG_focus_style
 
@@ -4231,7 +4231,7 @@
 		x = 4
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_BEL_COG_focus_style
 
@@ -4589,7 +4589,7 @@
 		x = 0
 		y = 2
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_BEL_focus_style
 
@@ -4869,7 +4869,7 @@
 		x = 0
 		y = 3
 
-		cost = 12
+		cost = 10
 
 		text_icon = CONGO_BEL_COG_focus_style
 
@@ -5515,7 +5515,7 @@
 		x = -1
 		y = 2
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_BEL_COG_focus_style
 
@@ -5614,7 +5614,7 @@
 		x = 1
 		y = 2
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_BEL_COG_focus_style
 
@@ -6848,7 +6848,7 @@
 		x = -1
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_BEL_focus_style
 
@@ -6933,7 +6933,7 @@
 		x = 1
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_COG_focus_style
 
@@ -7334,7 +7334,7 @@
 		x = -1
 		y = 4
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_COG_focus_style
 
@@ -7440,7 +7440,7 @@
 		x = 0
 		y = 5
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_BEL_COG_focus_style
 
@@ -7676,7 +7676,7 @@
 		x = 0
 		y = 5
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_COG_focus_style
 
@@ -8270,7 +8270,7 @@
 		x = 0
 		y = 6
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_BEL_COG_focus_style
 
@@ -8422,7 +8422,7 @@
 		x = 0
 		y = 4
 
-		cost = 12
+		cost = 10
 
 		text_icon = CONGO_BEL_COG_focus_style
 
@@ -8519,7 +8519,7 @@
 		x = 5
 		y = 3
 
-		cost = 10
+		cost = 5
 
 		text_icon = CONGO_BEL_COG_focus_style
 

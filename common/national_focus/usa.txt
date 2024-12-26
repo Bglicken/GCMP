@@ -333,7 +333,7 @@ focus_tree = {
 		prerequisite = { focus = USA_democratic_socialism }
 		prerequisite = { focus = USA_full_desegregation }
 		relative_position_id = USA_desegregate_the_armed_forces
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -681,7 +681,7 @@ focus_tree = {
 		y = 1
 		prerequisite = { focus = USA_guarantee_the_american_dream }
 		relative_position_id = USA_guarantee_the_american_dream
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -798,7 +798,7 @@ focus_tree = {
 		prerequisite = { focus = USA_suspend_the_presecution }
 		prerequisite = { focus = USA_agricultural_adjustment_act }
 		relative_position_id = USA_suspend_the_presecution
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1560,7 +1560,7 @@ focus_tree = {
 			}
 		}
 
-		cost = 10
+		cost = 5
 		#ai_will_do = {
 		#	factor = 1
 		#}
@@ -1714,7 +1714,7 @@ focus_tree = {
 			}
 		}
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1823,7 +1823,7 @@ focus_tree = {
 			}
 		}
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -2206,7 +2206,7 @@ focus_tree = {
 			}
 		}
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4752,7 +4752,7 @@ focus_tree = {
 			}
 		}
 		
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -5235,7 +5235,7 @@ focus_tree = {
 		y = 3
 		prerequisite = { focus = USA_war_plan_white }
 		relative_position_id = USA_intervention_in_europe
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -5535,7 +5535,7 @@ focus_tree = {
 		y = 0
 		relative_position_id = USA_war_plans_division
 		
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -5978,7 +5978,7 @@ focus_tree = {
 		y = 1
 		prerequisite = { focus = USA_war_department }
 		relative_position_id = USA_war_department
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -6046,7 +6046,7 @@ focus_tree = {
 		icon = GFX_goal_generic_build_airforce
 		x = 2
 		y = 1
-		cost = 10
+		cost = 20
 		#ai_will_do = {
 		#	factor = 1
 		#}
@@ -6239,7 +6239,7 @@ focus_tree = {
 		y = 4
 		prerequisite = { focus = USA_TAC }
 		relative_position_id = USA_air_war_plans_division
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -6515,7 +6515,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = USA_battleship_primacy
-		cost = 10
+		cost = 5
 		#ai_will_do = {
 		#	factor = 1
 		#}
@@ -6717,7 +6717,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = USA_escort_effort
-		cost = 10
+		cost = 5
 		#ai_will_do = {
 		#	factor = 1
 		#}
@@ -6844,7 +6844,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = USA_fund_the_navy
-		cost = 10
+		cost = 5
 		#ai_will_do = {
 		#	factor = 1
 		#}

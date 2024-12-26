@@ -410,7 +410,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_NAVY_XP FOCUS_FILTER_RESEARCH }
 	
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			base = 5
@@ -509,7 +509,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_RESEARCH }
 	
-		cost = 10
+		cost = 5
 	
 		bypass = {
 		}
@@ -775,7 +775,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_HISTORICAL }
 	
-		cost = 10
+		cost = 5
 	
 		bypass = {
 		}
@@ -1395,7 +1395,7 @@ focus_tree = {
 
 		relative_position_id = COG_french_as_martial_language
 	
-		cost = 10
+		cost = 5
 	
 		bypass = {
 		}
@@ -2851,7 +2851,7 @@ focus_tree = {
 
 		#mutually_exclusive = { focus = COG_approach_the_disfavored_mwami }
 	
-		cost = 10
+		cost = 5
 	
 		bypass = {
 		}
@@ -4351,7 +4351,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_AIR_XP FOCUS_FILTER_HISTORICAL }
 	
-		cost = 10
+		cost = 5
 	
 		bypass = {
 		}
@@ -5384,7 +5384,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_POLITICAL FOCUS_FILTER_TFV_AUTONOMY }
 	
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			base = 10
@@ -5468,7 +5468,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_POLITICAL }
 	
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			base = 10 
@@ -5831,7 +5831,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_STABILITY FOCUS_FILTER_POLITICAL }
 	
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			base = 10
