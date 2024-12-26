@@ -249,7 +249,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = ARG_defense_and_democracy
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -1433,7 +1433,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = ARG_support_radical_nationalism
-		cost = 10
+		cost = 5
 		available = {
 			ITA = {
 				has_government = fascism
@@ -1917,7 +1917,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ARG_dominate_the_south
 		mutually_exclusive = { focus = ARG_paraguayan_ultimatum }
-		cost = 10
+		cost = 5
 		available = {
 			PAR = {
 				exists = yes
@@ -4137,7 +4137,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ARG_us_marine_program
-		cost = 10
+		cost = 5
 		available = {
 			any_other_country = {
 				original_tag = SOV

@@ -5276,7 +5276,7 @@ focus_tree = {
 		relative_position_id = BRA_tech_slot_2
 		prerequisite = { focus = BRA_address_labor_disputes }
 		#mutually_exclusive = { focus = BRA_secure_our_borders }
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 30
 		}
@@ -6487,7 +6487,7 @@ focus_tree = {
 		relative_position_id = BRA_spread_the_revolution
 		prerequisite = { focus = BRA_spread_the_revolution }
 		mutually_exclusive = { focus = BRA_create_faction }
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 10
 		}
@@ -6589,7 +6589,7 @@ focus_tree = {
 		mutually_exclusive = { focus = BRA_join_the_comintern }
 		cost = 10
 		ai_will_do = {
-			factor = 10
+			factor = 5
 		}
 		available = {
 			is_subject = no
