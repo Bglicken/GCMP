@@ -2552,7 +2552,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = AUS_demand_liberation_of_workers
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -2590,7 +2590,7 @@ focus_tree = {
 		relative_position_id = AUS_union_of_danubian_socialist_republics
 		will_lead_to_war_with = SOV
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 3
@@ -13446,7 +13446,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_INDUSTRY }
 
-		cost = 5
+		cost = 10
 
 		ai_will_do = {
 			factor = 10
@@ -15729,7 +15729,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = AUS_elin
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
