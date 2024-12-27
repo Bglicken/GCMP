@@ -4178,7 +4178,7 @@
 		y = 0
 		relative_position_id = CZE_military_aeronautical_institute
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 30
@@ -4219,7 +4219,7 @@
 		y = 1
 		relative_position_id = CZE_access_to_the_sea
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 70
@@ -4324,7 +4324,7 @@
 		y = 2
 		relative_position_id = CZE_access_to_the_sea
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -4364,7 +4364,7 @@
 		y = 2
 		relative_position_id = CZE_access_to_the_sea
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 20
@@ -4404,7 +4404,7 @@
 		y = 2
 		relative_position_id = CZE_access_to_the_sea
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -4447,7 +4447,7 @@
 		y = 3
 		relative_position_id = CZE_access_to_the_sea
 
-		cost = 10
+		cost = 2
 
 		ai_will_do = {
 			factor = 20
@@ -4490,7 +4490,7 @@
 		y = 3
 		relative_position_id = CZE_access_to_the_sea
 
-		cost = 10
+		cost = 2
 
 		ai_will_do = {
 			factor = 5

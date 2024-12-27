@@ -679,7 +679,7 @@ shared_focus = {
 	y = 1
 	relative_position_id = BALTIC_axis_investments
 
-	cost = 10
+	cost = 5
 
 	ai_will_do = {
 		factor = 1
@@ -838,7 +838,7 @@ shared_focus = {
 	y = 1
 	relative_position_id = BALTIC_german_baltic_industry
 
-	cost = 10
+	cost = 5
 
 	ai_will_do = {
 		factor = 1
@@ -2134,7 +2134,7 @@ shared_focus = {
 	y = 1
 	relative_position_id = BALTIC_modernize_industry
 
-	cost = 10
+	cost = 5
 
 	ai_will_do = {
 		factor = 1
@@ -2221,7 +2221,7 @@ shared_focus = {
 	y = 1
 	relative_position_id = BALTIC_domestic_motors
 
-	cost = 10
+	cost = 5
 
 	ai_will_do = {
 		factor = 1
@@ -3752,7 +3752,7 @@ shared_focus = {
 	y = 1
 	relative_position_id = BALTIC_overthrow_the_government
 
-	cost = 10
+	cost = 5
 
 	ai_will_do = {
 		factor = 1
@@ -4825,7 +4825,7 @@ shared_focus = {
 	relative_position_id = BALTIC_western_revolution
 	will_lead_to_war_with = POL
 
-	cost = 10
+	cost = 5
 
 	ai_will_do = {
 		factor = 1

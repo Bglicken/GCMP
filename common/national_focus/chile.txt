@@ -487,7 +487,7 @@ focus_tree = {
 		relative_position_id = CHL_denounce_the_anarchy
 		x = 0
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			base = 2
@@ -12397,7 +12397,7 @@ focus_tree = {
 		relative_position_id = CHL_land_reforms
 		x = 0
 		y = 1
-		cost = 10
+		cost = 5
 
 		prerequisite = {
 			focus = CHL_land_reforms
