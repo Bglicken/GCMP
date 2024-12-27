@@ -1297,7 +1297,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ITA_litoranea_balbo
-		cost = 10
+		cost = 5
 		available = {
 			451 = {
 				state_is_fully_controlled_by_ROOT_or_subject = yes
@@ -1778,7 +1778,7 @@ focus_tree = {
 		x = 3
 		y = 1
 		relative_position_id = ITA_regional_development
-		cost = 10
+		cost = 5
 		available = {
 			any_state = {
 				OR = {
@@ -3771,7 +3771,7 @@ focus_tree = {
 		x = 13
 		y = 0
 		relative_position_id = ITA_italian_highways_bba
-		cost = 5
+		cost = 10
 		available = {
 		}
 
@@ -4240,7 +4240,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ITA_preserve_army_traditions
-		cost = 10
+		cost = 5
 		available = {
 			NOT = { has_global_flag = second_italo_ethiopian_war_flag }
 			#NTH_Manu: Should probably also require a completed focus in any of the ME political paths, so that it can unlock appropriate generals
@@ -5157,7 +5157,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = ITA_citta_dell_aria
-		cost = 5
+		cost = 2
 		available = {
 		}
 
@@ -5198,7 +5198,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ITA_citta_dell_aria
-		cost = 5
+		cost = 10
 		available = {
 			any_enemy_country = {
 				is_major_not_original_tag_root = yes
@@ -5739,7 +5739,7 @@ focus_tree = {
 		x = -2
 		y = 1
 		relative_position_id = ITA_naval_power_projection
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -8196,7 +8196,7 @@ focus_tree = {
 		x = 29
 		y = 0
 		relative_position_id = ITA_naval_power_projection
-		cost = 5
+		cost = 2
 
 		allow_branch = {
 			has_dlc = "By Blood Alone"
@@ -8269,7 +8269,7 @@ focus_tree = {
 		}
 
 		relative_position_id = ITA_the_abyssinian_fiasco
-		cost = 5
+		cost = 2
 
 		bypass = {
 			ITA_has_peaced_out_eth_on_startup = yes
@@ -8302,7 +8302,7 @@ focus_tree = {
 		x = 2
 		y = 0
 		relative_position_id = ITA_solid_progress
-		cost = 5
+		cost = 2
 		available = {
 			custom_trigger_tooltip = {
 				tooltip = ITA_the_abyssinian_fiasco_completion_tt
@@ -8493,7 +8493,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ITA_servizio_informazione_militare
-		cost = 5
+		cost = 10
 
 		bypass = {
 			OR = {
@@ -8674,7 +8674,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = ITA_triumph_in_africa_bba
-		cost = 5
+		cost = 2
 
 		bypass = {
 			NOT = { has_country_flag = SUEZ_SANCTIONS_FLAG }
@@ -9138,7 +9138,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = ITA_culto_del_duce
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -9157,7 +9157,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ITA_culto_del_duce
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -9514,7 +9514,7 @@ focus_tree = {
 			}
 		}
 
-		cost = 5
+		cost = 10
 		available = {
 			has_government = fascism
 			ITA_has_disbanded_blackshirts = no
@@ -15347,7 +15347,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ITA_guarantee_austrian_independence
-		cost = 10
+		cost = 5
 		available = { 
 			NOT = {
 				has_war_with = ENG
@@ -15966,7 +15966,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ITA_potential_allies_in_the_balkans
-		cost = 10
+		cost = 5
 
 		bypass = {
 			is_in_faction = yes
@@ -16050,7 +16050,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ITA_pact_of_steel
-		cost = 10
+		cost = 5
 
 		available = {
 			country_exists = JAP
@@ -16239,7 +16239,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = ITA_war_with_france
-		cost = 10
+		cost = 5
 		available = {
 
 			846 = {
@@ -16282,7 +16282,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = ITA_italy_first
-		cost = 10
+		cost = 5
 		available = {
 			is_subject = no
 			NOT = { is_in_faction_with = ENG }
@@ -16406,7 +16406,7 @@ focus_tree = {
 		x = 1
 		y = 3
 		relative_position_id = ITA_italy_first
-		cost = 10
+		cost = 5
 
 		bypass = {
 			NOT = { country_exists = GRE }
@@ -16498,7 +16498,7 @@ focus_tree = {
 		x = 2
 		y = 0
 		relative_position_id = ITA_claims_on_turkey_bba
-		cost = 10
+		cost = 5
 		available = {
 			country_exists = TUR
 			NOT = {
@@ -21452,7 +21452,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ITA_reestablish_old_alliances
-		cost = 10
+		cost = 5
 		available = {
 			is_in_faction = yes
 			any_allied_country = {
@@ -21505,7 +21505,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ITA_military_agreements
-		cost = 10
+		cost = 5
 		available = {
 			any_country = {
 				original_tag = SOV

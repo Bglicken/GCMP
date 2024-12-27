@@ -2953,7 +2953,7 @@ focus_tree = {
 		x = 35
 		y = 0
 		#relative_position_id =
-		cost = 10
+		cost = 5
 		available = {
 			threat > 0.1
 		}
@@ -2982,7 +2982,7 @@ focus_tree = {
 		x = -2
 		y = 1
 		relative_position_id = ICE_the_armed_forces_of_iceland
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3012,7 +3012,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = ICE_the_armed_forces_of_iceland
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3049,7 +3049,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ICE_a_naval_hub_in_the_atlantic
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3082,7 +3082,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ICE_an_airbase_in_the_sea
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3121,7 +3121,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = ICE_an_airbase_in_the_sea
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3153,7 +3153,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ICE_flying_boats
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3223,7 +3223,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ICE_mine_iceland
-		cost = 10
+		cost = 5
 		available = {
 		}
 
