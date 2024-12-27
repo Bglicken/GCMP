@@ -2709,7 +2709,7 @@
 		y = 2
 		relative_position_id = CZE_trust_in_the_west
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 100
@@ -2788,7 +2788,7 @@
 		y = 2
 		relative_position_id = CZE_doctrinal_innovation
 
-		cost = 10
+		cost = 2
 
 		ai_will_do = {
 			factor = 60
@@ -2841,7 +2841,7 @@
 		y = 2
 		relative_position_id = CZE_doctrinal_innovation
 
-		cost = 10
+		cost = 2
 
 		ai_will_do = {
 			factor = 40
@@ -4008,7 +4008,7 @@
 		y = 3
 		relative_position_id = CZE_military_aeronautical_institute
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 80
@@ -4049,7 +4049,7 @@
 		y = 1
 		relative_position_id = CZE_military_aeronautical_institute
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 70
@@ -4092,7 +4092,7 @@
 		y = 1
 		relative_position_id = CZE_import_foreign_bombers
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 70
@@ -4134,7 +4134,7 @@
 		y = 1
 		relative_position_id = CZE_import_foreign_bombers
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 30
