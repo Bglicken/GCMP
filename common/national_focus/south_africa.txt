@@ -1089,7 +1089,7 @@
 		y = 4
 		relative_position_id = SAF_support_the_afrikaner_broederbond
 
-		cost = 5
+		cost = 10
 
 		ai_will_do = {
 			factor = 1
@@ -1346,7 +1346,7 @@
 		y = 1
 		relative_position_id = SAF_empower_the_workers
 
-		cost = 5
+		cost = 2
 
 		ai_will_do = {
 			factor = 30
@@ -1578,7 +1578,7 @@
 		y = 4
 		relative_position_id = SAF_empower_the_workers
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1613,7 +1613,7 @@
 		y = 5
 		relative_position_id = SAF_empower_the_workers
 
-		cost = 5
+		cost = 10
 
 		ai_will_do = {
 			factor = 1
@@ -1657,7 +1657,7 @@
 		y = 6
 		relative_position_id = SAF_empower_the_workers
 
-		cost = 5
+		cost = 10
 
 		ai_will_do = {
 			factor = 1
@@ -2496,7 +2496,7 @@
 		y = 6
 		relative_position_id = SAF_south_african_railways
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 5
@@ -3012,7 +3012,7 @@
 		x = 28
 		y = 0	
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
