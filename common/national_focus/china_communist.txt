@@ -237,7 +237,7 @@ focus_tree = {
 		y = 3
 		relative_position_id = PRC_marxist_orthodoxy
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -381,7 +381,7 @@ focus_tree = {
 		y = 3
 		relative_position_id = PRC_agrarian_socialism
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 4
@@ -1324,7 +1324,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = PRC_central_military_commission
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 4

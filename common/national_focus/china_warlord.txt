@@ -147,7 +147,7 @@
 		y = 1
 		relative_position_id = CHI_cooperation_with_the_nationalists
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -948,7 +948,7 @@
 		y = 1
 		relative_position_id = CHI_opposition
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1109,7 +1109,7 @@
 		y = 1
 		relative_position_id = CHI_war_taxes
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1267,7 +1267,7 @@
 		y = 1
 		relative_position_id = CHI_personal_leadership
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1331,7 +1331,7 @@
 		y = 2
 		relative_position_id = CHI_personal_leadership
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
