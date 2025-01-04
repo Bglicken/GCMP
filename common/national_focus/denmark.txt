@@ -127,7 +127,7 @@ focus_tree = {
 		x = -1
 		y = 1
 	
-		cost = 10
+		cost = 5
 	
 		bypass = {
 		}
@@ -176,7 +176,7 @@ focus_tree = {
 		x = 1
 		y = 1
 	
-		cost = 10
+		cost = 5
 	
 		bypass = {
 		}
@@ -864,7 +864,7 @@ focus_tree = {
 		x = 1
 		y = 4
 	
-		cost = 10
+		cost = 5
 	
 		bypass = {
 			NOT = { has_full_control_of_state = 37 }
@@ -1272,7 +1272,7 @@ focus_tree = {
 		x = 0
 		y = 3
 	
-		cost = 5
+		cost = 10
 	
 		bypass = {
 		}
@@ -5201,7 +5201,7 @@ focus_tree = {
 		x = 0
 		y = 1
 	
-		cost = 10
+		cost = 5
 	
 		bypass = {
 			OR = {
@@ -9123,7 +9123,7 @@ focus_tree = {
 		x = 4
 		y = 1
 
-		cost = 10
+		cost = 5
 		will_lead_to_war_with = ENG
 
 		available = {
@@ -9347,7 +9347,7 @@ focus_tree = {
 			}
 		}
 
-		cost = 5
+		cost = 10
 
 		available = {
 			if = {
@@ -9389,7 +9389,7 @@ focus_tree = {
 		x = -2
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		available = {
 			any_core_state = { is_owned_and_controlled_by = ROOT }
@@ -9491,7 +9491,7 @@ focus_tree = {
 		x = 2
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		available = {
 			if = {
@@ -11851,7 +11851,7 @@ focus_tree = {
 		x = 0
 		y = 3
 
-		cost = 10
+		cost = 5
 
 		available = {
 			if = {
