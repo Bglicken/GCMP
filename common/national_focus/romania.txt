@@ -68,7 +68,7 @@ focus_tree = {
 		x = 3
 		y = 0
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 9
@@ -100,7 +100,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ROM_preserve_greater_romania
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 5
@@ -171,7 +171,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = ROM_a_deal_with_the_devil
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -211,7 +211,7 @@ focus_tree = {
 		y = 3
 		relative_position_id = ROM_a_deal_with_the_devil
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -243,7 +243,7 @@ focus_tree = {
 		y = 4
 		relative_position_id = ROM_a_deal_with_the_devil
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -323,7 +323,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = ROM_trade_treaty_with_germany
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -412,7 +412,7 @@ focus_tree = {
 		y = 4
 		relative_position_id = ROM_trade_treaty_with_germany
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -792,7 +792,7 @@ focus_tree = {
 		y = 4
 		relative_position_id = ROM_renew_the_romanian_polish_alliance
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -850,7 +850,7 @@ focus_tree = {
 		y = 5
 		relative_position_id = ROM_renew_the_romanian_polish_alliance
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1222,7 +1222,7 @@ focus_tree = {
 		y = 3
 		relative_position_id = ROM_civil_works
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 5
@@ -1471,7 +1471,7 @@ focus_tree = {
 		y = 7
 		relative_position_id = ROM_civil_works
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -2254,7 +2254,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = ROM_institute_royal_dictatorship
 
-		cost = 5
+		cost = 2
 
 		ai_will_do = {
 			factor = 9
@@ -3153,7 +3153,7 @@ focus_tree = {
 		x = 32
 		y = 0
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 5
@@ -3307,7 +3307,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ROM_acquire_licenses
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3344,7 +3344,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ROM_acquire_licenses
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3380,7 +3380,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = ROM_acquire_licenses
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3416,7 +3416,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = ROM_acquire_licenses
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3530,7 +3530,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ROM_local_development
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 9
@@ -3769,7 +3769,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = ROM_strategic_bomber_force
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3814,7 +3814,7 @@ focus_tree = {
 		x = 40
 		y = 0
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 9
@@ -3845,7 +3845,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ROM_army_maneuvers
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4099,7 +4099,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ROM_army_maneuvers
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 9
@@ -4223,7 +4223,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ROM_royal_guards_divisions
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4393,7 +4393,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = ROM_royal_guards_divisions
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4426,7 +4426,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ROM_acquire_modern_tanks
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 9
@@ -4767,7 +4767,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ROM_expand_the_galati_shipyards
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 5
@@ -4815,7 +4815,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = ROM_black_sea_dominance
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
