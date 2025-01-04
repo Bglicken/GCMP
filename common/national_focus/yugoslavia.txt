@@ -298,7 +298,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_friendship_treaty_with_italy
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 0
@@ -2288,7 +2288,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_join_axis
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 100
@@ -2530,7 +2530,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_zara_for_axis
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 100
@@ -3136,7 +3136,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_towards_independence
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 40
@@ -3235,7 +3235,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_defence_army_of_yugoslavia
 		
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 40
@@ -3476,7 +3476,7 @@ focus_tree = {
 		x = 11
 		y = 0
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 50
@@ -3673,7 +3673,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_abolish_the_monarchy
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 40
@@ -3802,7 +3802,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_yugoslavian_path_to_communism
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 50
@@ -4039,7 +4039,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_invite_bulgaria
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 50
@@ -4378,7 +4378,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_industrialization_program
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 70
@@ -5468,7 +5468,7 @@ focus_tree = {
 		x = 27
 		y = 0
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 60
@@ -5727,7 +5727,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = YUG_local_developers
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 50
@@ -5926,7 +5926,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_purchase_foreign
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 50
@@ -5960,7 +5960,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = YUG_purchase_foreign
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 50
@@ -6044,7 +6044,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = YUG_purchase_foreign
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 25
@@ -6131,7 +6131,7 @@ focus_tree = {
 		x = 37
 		y = 0
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 70
@@ -6676,7 +6676,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_army_modernization
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 70
@@ -6715,7 +6715,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_army_maneuvers
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 30
@@ -6755,7 +6755,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_army_maneuvers
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 60
@@ -6827,7 +6827,7 @@ focus_tree = {
 		y = 3
 		relative_position_id = YUG_army_maneuvers
 
-		cost = 10
+		cost = 5
 		
 		allow_branch = {
 			has_dlc = "By Blood Alone"
@@ -6918,7 +6918,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = YUG_expand_the_split_shipyards
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 20
@@ -6958,7 +6958,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = YUG_expand_the_split_shipyards
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 20
@@ -7038,7 +7038,7 @@ focus_tree = {
 		y = 3
 		relative_position_id = YUG_expand_the_split_shipyards
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 20
