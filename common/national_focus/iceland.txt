@@ -310,7 +310,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ICE_banking_on_the_future
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -344,7 +344,7 @@ focus_tree = {
 		x = -3
 		y = 1
 		relative_position_id = ICE_hydroelectric_power
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3305,7 +3305,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = ICE_a_profesional_army
-		cost = 10
+		cost = 5
 		available = { 
 		}
 
@@ -3359,7 +3359,7 @@ focus_tree = {
 		x = -2
 		y = 1
 		relative_position_id = ICE_thungur_hnifur
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3381,7 +3381,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ICE_thungur_hnifur
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3403,7 +3403,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = ICE_thungur_hnifur
-		cost = 10
+		cost = 5
 		available = {
 		}
 

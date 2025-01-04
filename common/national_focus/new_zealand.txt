@@ -69,7 +69,7 @@
 		x = 16
 		y = 0
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2
@@ -1277,7 +1277,7 @@
 		y = 4
 		relative_position_id = NZL_national_roads_board
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 35
@@ -1395,7 +1395,7 @@
 		x = 30
 		y = 0
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2
@@ -1600,7 +1600,7 @@
 		y = 2
 		relative_position_id = NZL_army_reforms
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 25
@@ -2565,7 +2565,7 @@
 		y = 1
 		relative_position_id = NZL_in_the_darkness
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 25
