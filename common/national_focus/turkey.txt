@@ -171,7 +171,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = TUR_lift_the_ban_on_other_political_parties
-		cost = 5
+		cost = 2
 		ai_will_do = {
 			base = 10
 		}
@@ -372,7 +372,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = TUR_expanding_our_armaments
-		cost = 5
+		cost = 10
 		ai_will_do = {
 			base = 10
 		}
@@ -1243,7 +1243,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = TUR_reinvigorate_turkish_nationalism
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -1495,7 +1495,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = TUR_purify_the_diyanet
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -2269,7 +2269,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = TUR_purge_the_kemalists
-		cost = 5
+		cost = 10
 		ai_will_do = {
 			base = 10
 		}
@@ -2412,7 +2412,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = TUR_purge_the_kemalists
-		cost = 5
+		cost = 2
 		ai_will_do = {
 			base = 10
 		}
@@ -2434,7 +2434,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = TUR_purge_the_kemalists
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -2903,7 +2903,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = TUR_supporting_the_east
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -3129,7 +3129,7 @@ focus_tree = {
 		x = 3
 		y = 1
 		relative_position_id = TUR_the_pan_national_association_of_ulemas
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -3383,7 +3383,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = TUR_continue_to_prioritise_balkan_integrity
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -4196,7 +4196,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = TUR_joint_budgets_on_fortifications
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -5033,7 +5033,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = TUR_the_anglo_turkish_agreement
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -5241,7 +5241,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = TUR_the_chester_concession
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -5761,7 +5761,7 @@ focus_tree = {
 		x = -2
 		y = 1
 		relative_position_id = TUR_the_clodius_agreement
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -5899,7 +5899,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = TUR_invite_german_officers_to_izmir
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -6244,7 +6244,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = TUR_fortifying_the_bosporus
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -6899,7 +6899,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = TUR_turkish_panzers
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
@@ -7063,7 +7063,7 @@ focus_tree = {
 		x = -2
 		y = 1
 		relative_position_id = TUR_the_batumi_accord
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 10
 		}
