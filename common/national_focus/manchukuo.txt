@@ -57,7 +57,7 @@
 		x = 6
 		y = 0
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -92,7 +92,7 @@
 		y = 1
 		relative_position_id = MAN_pacify_the_countryside
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -125,7 +125,7 @@
 		y = 1
 		relative_position_id = MAN_army_modernization
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -610,7 +610,7 @@
 		y = 1
 		relative_position_id = MAN_invite_japanese_investors
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 4
@@ -983,7 +983,7 @@
 		y = 1
 		relative_position_id = MAN_mukden_arsenal
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1051,7 +1051,7 @@
 		y = 1
 		relative_position_id = MAN_first_five_year_plan
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1412,7 +1412,7 @@
 		y = 1
 		relative_position_id = MAN_staff_the_court_with_manchus
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 3
