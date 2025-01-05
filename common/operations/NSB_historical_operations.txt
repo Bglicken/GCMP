@@ -111,7 +111,7 @@ murder_trotsky = { ### 1/50
 	map_icon = GFX_murder_trotsky_map
 	name = murder_trotsky
 	desc = murder_trotsky_desc
-	days = 270
+	days = 210
 
 	priority = 10
 
