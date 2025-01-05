@@ -778,7 +778,7 @@
 		
 		prerequisite = { focus = SWI_armed_neutrality }
 		mutually_exclusive = { focus = SWI_frontier_defense_plan }
-		cost = 10
+		cost = 5
 	
 		ai_will_do = {
 			factor = 10
@@ -937,7 +937,7 @@
 		relative_position_id = SWI_expedite_mobilization
 		prerequisite = { focus = SWI_expedite_mobilization }
 		mutually_exclusive = { focus = SWI_rig_infrastructure_to_blow }
-		cost = 10
+		cost = 5
 	
 		ai_will_do = {
 			factor = 10
@@ -1359,7 +1359,7 @@
 		relative_position_id = SWI_the_army_position
 		mutually_exclusive = { focus = SWI_integrate_refugees_into_the_army }
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1403,7 +1403,7 @@
 		y = 1
 		relative_position_id = SWI_prolonged_service
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -2627,7 +2627,7 @@
 		y = 1
 		relative_position_id = SWI_fortify_border_with_germany
 		prerequisite = { focus = SWI_fortify_border_with_germany focus = SWI_fortify_border_with_italy }
-		cost = 5
+		cost = 10
 	
 		ai_will_do = {
 			factor = 10
@@ -3611,7 +3611,7 @@
 		y = 1
 		relative_position_id = SWI_fortify_austrian_border
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3655,7 +3655,7 @@
 		y = 1
 		relative_position_id = SWI_case_north
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3704,7 +3704,7 @@
 		y = 1
 		relative_position_id = SWI_case_north
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4398,7 +4398,7 @@
 		x = 0
 		y = 2
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4523,7 +4523,7 @@
 		x = 1
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4996,7 +4996,7 @@
 		x = 0 
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -6429,7 +6429,7 @@
 		x = 1
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -6550,7 +6550,7 @@
 		x = -1
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -6654,7 +6654,7 @@
 		x = -1
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -6715,7 +6715,7 @@
 		x = 1
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -7087,7 +7087,7 @@
 		x = 3
 		y = 1
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
