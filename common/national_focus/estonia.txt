@@ -640,7 +640,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = EST_squash_the_opposition
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -727,7 +727,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = EST_beyond_the_baltic
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1040,7 +1040,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = EST_fight_the_vaps
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1239,7 +1239,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = EST_rally_the_nation
 
-		cost = 5
+		cost = 10
 
 		ai_will_do = {
 			factor = 1
@@ -1316,7 +1316,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = EST_march_on_talinn
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1348,7 +1348,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = EST_glory_of_war
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1453,7 +1453,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = EST_veterans_government
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1588,7 +1588,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = EST_anti_communist_militia
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1791,7 +1791,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = EST_march_on_talinn
 
-		cost = 5
+		cost = 2
 
 		ai_will_do = {
 			factor = 1
@@ -1963,7 +1963,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = EST_national_pride_in_finland
 
-		cost = 5
+		cost = 10
 
 		ai_will_do = {
 			factor = 1
@@ -2066,7 +2066,7 @@ focus_tree = {
 		relative_position_id = EST_sieze_swedish_assets
 		will_lead_to_war_with = DEN
 
-		cost = 5
+		cost = 10
 
 		ai_will_do = {
 			factor = 1
@@ -2826,7 +2826,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = EST_threat_on_our_border
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1

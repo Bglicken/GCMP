@@ -786,7 +786,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = LAT_merge_presidential_titles
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -888,7 +888,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = LAT_beyond_the_baltic
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1871,7 +1871,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = LAT_alignment_with_germany
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
