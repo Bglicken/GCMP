@@ -19,7 +19,13 @@ branch_intelligence = {
 		
 		level = {
 			modifier = {
-				civilian_intel_factor = 0.25
+				civilian_intel_factor = 0.2
+			}
+		}
+
+		level = {
+			modifier = {
+				civilian_intel_factor = 0.2
 			}
 		}
 	}
@@ -40,7 +46,13 @@ branch_intelligence = {
 		
 		level = {
 			modifier = {
-				army_intel_factor = 0.25
+				army_intel_factor = 0.2
+			}
+		}
+
+		level = {
+			modifier = {
+				army_intel_factor = 0.2
 			}
 		}
 		
@@ -62,7 +74,13 @@ branch_intelligence = {
 		
 		level = {
 			modifier = {
-				navy_intel_factor = 0.25
+				navy_intel_factor = 0.2
+			}
+		}
+
+		level = {
+			modifier = {
+				navy_intel_factor = 0.2
 			}
 		}
 		
@@ -84,7 +102,13 @@ branch_intelligence = {
 		
 		level = {
 			modifier = {
-				airforce_intel_factor = 0.25
+				airforce_intel_factor = 0.2
+			}
+		}
+
+		level = {
+			modifier = {
+				airforce_intel_factor = 0.2
 			}
 		}
 		
@@ -109,13 +133,7 @@ branch_defense = {
 		
 		level = {
 			modifier = {
-				intelligence_agency_defense = 1.5
-			}
-		}
-		
-		level = {
-			modifier = {
-				intelligence_agency_defense = 1.25
+				intelligence_agency_defense = 1
 			}
 		}
 		
@@ -125,6 +143,18 @@ branch_defense = {
 			}
 		}
 		
+		level = {
+			modifier = {
+				intelligence_agency_defense = 1
+			}
+		}
+		
+		level = {
+			modifier = {
+				intelligence_agency_defense = 1
+			}
+		}
+
 		level = {
 			modifier = {
 				intelligence_agency_defense = 1
@@ -148,13 +178,19 @@ branch_defense = {
 		
 		level = {
 			modifier = {
-				root_out_resistance_effectiveness_factor = 0.25
+				root_out_resistance_effectiveness_factor = 0.2
 			}
 		}
 		
 		level = {
 			modifier = {
-				root_out_resistance_effectiveness_factor = 0.25
+				root_out_resistance_effectiveness_factor = 0.2
+			}
+		}
+
+		level = {
+			modifier = {
+				root_out_resistance_effectiveness_factor = 0.2
 			}
 		}
 	}
@@ -297,6 +333,7 @@ branch_operative = {
 				enemy_operative_recruitment_chance = 0.25
 				occupied_operative_recruitment_chance = 0.25
 				new_operative_slot_bonus = 1
+				operative_slot = 1
 			}
 			
 			complete_effect = {
@@ -364,8 +401,22 @@ branch_operative = {
 		
 		level = {
 			modifier = {
-				control_trade_mission_factor = 0.25
-				diplomatic_pressure_mission_factor = 0.25
+				control_trade_mission_factor = 0.2
+				diplomatic_pressure_mission_factor = 0.2
+			}
+		}
+
+		level = {
+			modifier = {
+				control_trade_mission_factor = 0.2
+				diplomatic_pressure_mission_factor = 0.2
+			}
+		}
+
+		level = {
+			modifier = {
+				control_trade_mission_factor = 0.2
+				diplomatic_pressure_mission_factor = 0.2
 			}
 		}
 		
@@ -440,15 +491,15 @@ branch_crypto = {
 		
 		level = {
 			modifier = {
-				decryption_power = 25
+				decryption_power = 20
 			}
 		}
 		
 		level = {
 			modifier = {
-				decryption_power = 10
+				decryption_power = 20
 			}
-		}		
+		}
 	}
 
 	upgrade_decryption_boost_2 = {

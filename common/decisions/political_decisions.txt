@@ -2568,7 +2568,7 @@ political_actions = {
 		}
 	
 		days_remove = 360
-		cost = 150
+		cost = 75
 	
 		ai_will_do = {
 			base = 0
@@ -2633,7 +2633,7 @@ political_actions = {
 		}
 	
 		days_remove = 360
-		cost = 150
+		cost = 75
 	
 		ai_will_do = {
 			base = 0
@@ -2689,7 +2689,7 @@ political_actions = {
 		}
 	
 		days_remove = 360
-		cost = 150
+		cost = 75
 		
 		ai_will_do = {
 			base = 0
@@ -2754,7 +2754,7 @@ political_actions = {
 		}
 	
 		days_remove = 360
-		cost = 150
+		cost = 75
 		
 		ai_will_do = {
 			base = 0
