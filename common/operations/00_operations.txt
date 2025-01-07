@@ -1085,13 +1085,13 @@ operation_coup_government = { ### 7 1/70
 				AND = {
 					is_major = no
 					has_war = no
-					has_stability < 0.7 #majors are harder to coup
+					has_stability < 0.75 #majors are harder to coup
 				}
 				AND = {
 					has_war = no
-					has_stability < 0.5
+					has_stability < 0.6
 				}
-				has_stability < 0.35 #can always coup at low stability
+				has_stability < 0.4 #can always coup at low stability
 			}
 		}
 		OR = {
