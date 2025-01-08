@@ -25,7 +25,7 @@ focus_tree = {
 		icon = GFX_focus_POL_the_four_year_plan
 		x = 2
 		y = 0
-		cost = 5
+		cost = 10
 
 		ai_will_do = {
 			factor = 10
@@ -86,7 +86,7 @@ focus_tree = {
 		prerequisite = { focus = POL_the_four_year_plan }
 		x = 4
 		y = 1
-		cost = 5
+		cost = 10
 
 		ai_will_do = {
 			factor = 10
@@ -577,7 +577,7 @@ focus_tree = {
 		prerequisite = { focus = POL_the_four_year_plan }
 		x = 0
 		y = 1
-		cost = 10 #maybe 20?
+		cost = 5 #maybe 20?
 
 		ai_will_do = {
 			factor = 10
@@ -776,7 +776,7 @@ focus_tree = {
 		x = -1
 		y = 2
 		relative_position_id = POL_fill_the_railways_gaps
-		cost = 10
+		cost = 5
 
 		cancelable = no
 
@@ -1151,7 +1151,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = POL_modernize_congressional_factories
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -1279,7 +1279,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = POL_prepare_for_the_next_war
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -1739,7 +1739,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = POL_air_base_expansion
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -1945,7 +1945,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = POL_light_bomber_focus
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -4059,7 +4059,7 @@ focus_tree = {
 		x = -2
 		y = 1
 		relative_position_id = POL_plan_east
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -4428,7 +4428,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = POL_fortification_of_belarus
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -11932,7 +11932,7 @@ focus_tree = {
 
 		x = 0
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5
@@ -12185,7 +12185,7 @@ focus_tree = {
 
 		x = 4
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5
@@ -14749,7 +14749,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = POL_expand_polish_intelligence
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -14864,7 +14864,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = POL_expand_polish_intelligence
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -14941,7 +14941,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = POL_ideological_fanaticism
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -15487,7 +15487,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = POL_the_twin_threats
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10

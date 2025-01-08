@@ -362,7 +362,7 @@
 		}
 		x = 2
 		y = 1
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 0.2
 		}
@@ -480,7 +480,7 @@
 		prerequisite = {focus = FRA_invest_in_the_colonies }
 		mutually_exclusive = { }
 		relative_position_id = FRA_invest_in_the_colonies
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -650,7 +650,7 @@
 		x = 2
 		y = 1
 		relative_position_id = FRA_algerie_france
-		cost = 10
+		cost = 20
 		ai_will_do = {
 			factor = 1
 		}
@@ -2308,7 +2308,7 @@
 		}
 		mutually_exclusive = { focus = FRA_anti_fascist_coalition focus = FRA_loyalty_to_the_cause }
 		relative_position_id = FRA_reconciliation
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1

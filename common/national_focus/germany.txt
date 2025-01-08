@@ -6373,7 +6373,7 @@ focus_tree = {
 		x = -2
 		y = 1
 		relative_position_id = GER_plan_z
-		cost = 10
+		cost = 5
 		available = {
 			#NOT = { has_completed_focus = GER_high_seas_fleet }
 		}

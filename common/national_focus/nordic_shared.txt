@@ -389,7 +389,7 @@ joint_focus = {
 	x = -6
 	y = 1
 	relative_position_id = NORDIC_form_joint_alliance
-	cost = 5
+	cost = 10
 
 	text_icon = NORDIC_focus_style
 
@@ -547,7 +547,7 @@ joint_focus = {
 	x = -1
 	y = 1
 	relative_position_id = NORDIC_political_cooperation
-	cost = 10
+	cost = 5
 
 	text_icon = NORDIC_focus_style
 
@@ -771,7 +771,7 @@ joint_focus = {
 	x = 0
 	y = 1
 	relative_position_id = NORDIC_first_joint_institution
-	cost = 10
+	cost = 5
 
 	text_icon = NORDIC_focus_style
 
@@ -1084,7 +1084,7 @@ joint_focus = {
 	x = 0
 	y = 1
 	relative_position_id = NORDIC_joint_military_exercises
-	cost = 10
+	cost = 5
 
 	text_icon = NORDIC_focus_style
 
@@ -1351,7 +1351,7 @@ joint_focus = {
 	x = 0
 	y = 1
 	relative_position_id = NORDIC_nordic_navy
-	cost = 10
+	cost = 5
 
 	text_icon = NORDIC_focus_style
 
@@ -1429,7 +1429,7 @@ joint_focus = {
 	x = 3
 	y = 1
 	relative_position_id = NORDIC_nordic_navy
-	cost = 10
+	cost = 5
 
 	text_icon = NORDIC_focus_style
 
@@ -2368,7 +2368,7 @@ joint_focus = {
 	x = 2
 	y = 1
 	relative_position_id = NORDIC_nordic_airforce
-	cost = 5
+	cost = 10
 
 	text_icon = NORDIC_focus_style
 
@@ -2838,7 +2838,7 @@ joint_focus = {
 	x = 7
 	y = 1
 	relative_position_id = NORDIC_form_joint_alliance
-	cost = 10
+	cost = 5
 
 	text_icon = NORDIC_focus_style
 
@@ -2917,7 +2917,7 @@ joint_focus = {
 	x = -1
 	y = 1
 	relative_position_id = NORDIC_nordic_research
-	cost = 5
+	cost = 10
 
 	text_icon = NORDIC_focus_style
 
@@ -3347,7 +3347,7 @@ joint_focus = {
 	x = -1
 	y = 1
 	relative_position_id = NORDIC_fill_the_infrastructure_gaps
-	cost = 5
+	cost = 2
 
 	text_icon = NORDIC_focus_style
 
@@ -3626,7 +3626,7 @@ joint_focus = {
 	x = 0
 	y = 1
 	relative_position_id = NORDIC_research_investments
-	cost = 10
+	cost = 5
 
 	text_icon = NORDIC_focus_style
 
@@ -4047,7 +4047,7 @@ joint_focus = {
 	x = 1
 	y = 1
 	relative_position_id = NORDIC_ad_hoc_military_industry
-	cost = 10
+	cost = 5
 
 	text_icon = NORDIC_focus_style
 
@@ -4111,7 +4111,7 @@ joint_focus = {
 	x = 1
 	y = 1
 	relative_position_id = NORDIC_military_industry_hub
-	cost = 10
+	cost = 5
 
 	text_icon = NORDIC_focus_style
 

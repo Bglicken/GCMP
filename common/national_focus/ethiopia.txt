@@ -529,7 +529,7 @@ focus_tree = {
 		x = -3
 		y = 1
 		relative_position_id = ETH_keep_the_chitet
-		cost = 10
+		cost = 5
 		available = {
 		}
 		ai_will_do = {

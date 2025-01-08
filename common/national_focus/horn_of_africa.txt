@@ -376,7 +376,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = HOA_the_adjective_regional_development_fund
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -405,7 +405,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = HOA_promote_local_crafts
-		cost = 10
+		cost = 5
 		available = {
 			any_owned_state = {
 				is_coastal = yes
@@ -465,7 +465,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = HOA_use_the_natural_harbors
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -779,7 +779,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = HOA_utilize_our_strengths
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -894,7 +894,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = HOA_encourage_local_arms_production
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -972,7 +972,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = HOA_the_roars_of_thunder
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -1452,7 +1452,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = HOA_the_adjective_volunteer_force
-		cost = 10
+		cost = 5
 		available = {
 			is_subject = no
 		}
@@ -1471,7 +1471,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = HOA_military_cooperation
-		cost = 10
+		cost = 5
 		available = {
 			is_subject = no
 		}

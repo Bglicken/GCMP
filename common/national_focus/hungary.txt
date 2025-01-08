@@ -4233,7 +4233,7 @@ focus_tree = {
 		y = 5
 		relative_position_id = HUN_establish_the_air_force
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 30
@@ -4699,7 +4699,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = HUN_home_defense
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 60
