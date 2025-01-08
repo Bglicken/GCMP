@@ -146,7 +146,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = LIT_secure_a_loyal_cabinet
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1353,7 +1353,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = LIT_lithuanian_youth
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1412,7 +1412,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = LIT_rapid_fortifications_in_the_east
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1502,7 +1502,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = LIT_unify_the_military
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 100
@@ -3144,7 +3144,7 @@ focus_tree = {
 		relative_position_id = LIT_merge_the_military_and_civilian_governments
 		mutually_exclusive = { focus = LIT_formalize_baltic_entente focus = LIT_enforce_military_rule }
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3246,7 +3246,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = LIT_beyond_the_baltic
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4354,7 +4354,7 @@ focus_tree = {
 
 		x = 1
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5
@@ -4513,7 +4513,7 @@ focus_tree = {
 
 		x = 0
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5
@@ -4553,7 +4553,7 @@ focus_tree = {
 
 		x = 1
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5

@@ -3595,7 +3595,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = POL_the_prusya_line
-		cost = 10
+		cost = 5
 		
 		available = {
 			NOT = { has_completed_focus = POL_complete_plan_west }
@@ -15460,7 +15460,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = POL_expand_gdynia_seaport
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -15647,7 +15647,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = POL_strike_force
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10

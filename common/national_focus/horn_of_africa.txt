@@ -436,7 +436,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = HOA_promote_local_crafts  
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -590,7 +590,7 @@ focus_tree = {
 		x = 8 
 		y = 0
 		#relative_position_id =
-		cost = 5
+		cost = 2
 		available = {
 		}
 
@@ -1360,7 +1360,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = HOA_securing_the_adjective_future
-		cost = 10
+		cost = 5
 		available = {
 			is_subject = no
 		}
@@ -1537,7 +1537,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = HOA_improving_the_educational_system
-		cost = 10
+		cost = 5
 		available = {
 			is_subject = yes 
 		}
