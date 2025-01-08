@@ -4252,7 +4252,7 @@
 		x = 5
 		y = 1
 		relative_position_id = FRA_strengthen_the_little_entente
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 

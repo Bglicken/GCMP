@@ -53,7 +53,7 @@ focus_tree = {
 		icon = GFX_goal_generic_consumer_goods
 		x = 3
 		y = 0
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 
@@ -248,7 +248,7 @@ focus_tree = {
 		x = 2
 		y = 2
 		relative_position_id = HOL_expand_curacao_oil_refineries
-		cost = 5
+		cost = 10
 
 		available_if_capitulated = yes
 
@@ -304,7 +304,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = HOL_antilles_defenses
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 
@@ -458,7 +458,7 @@ focus_tree = {
 		x = -2
 		y = 2
 		relative_position_id = HOL_java
-		cost = 5
+		cost = 10
 
 		available_if_capitulated = yes
 
@@ -1438,7 +1438,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = HOL_expand_the_artillerieinrichtingen
-		cost = 30
+		cost = 10
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_RESEARCH FOCUS_FILTER_INDUSTRY}
@@ -2532,7 +2532,7 @@ focus_tree = {
 			}
 		}
 		relative_position_id = HOL_modernize_our_infantry_equipment
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_RESEARCH}
@@ -2684,7 +2684,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = HOL_secret_staff_talks
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_RESEARCH}

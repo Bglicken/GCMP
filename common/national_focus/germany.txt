@@ -10763,7 +10763,7 @@ focus_tree = {
 		x = 2
 		y = 4
 		relative_position_id = GER_integrate_czechoslovakia
-		cost = 5
+		cost = 2
 
 		bypass = {
 			OR = {
