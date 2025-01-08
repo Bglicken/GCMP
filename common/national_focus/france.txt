@@ -24,7 +24,7 @@
 		
 		prerequisite = {}
 		mutually_exclusive = { }
-		cost = 10
+		cost = 5
 			ai_will_do = {
 			factor = 1
 		}
@@ -180,7 +180,7 @@
 		}
 		x = 0
 		y = 2
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}		
@@ -237,7 +237,7 @@
 		x = 0
 		y = 1
 		relative_position_id = FRA_metropolitan_france
-		cost = 10
+		cost = 20
 		ai_will_do = {
 			factor = 1
 		}
@@ -543,7 +543,7 @@
 		prerequisite = { focus = FRA_invest_in_the_colonies }
 		mutually_exclusive = { }
 		relative_position_id = FRA_invest_in_the_colonies
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -597,7 +597,7 @@
 		prerequisite = {focus = FRA_invest_in_the_colonies }
 		mutually_exclusive = { }
 		relative_position_id = FRA_invest_in_the_colonies
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -880,7 +880,7 @@
 		prerequisite = { focus = FRA_defensive_focus }
 		mutually_exclusive = { focus = FRA_firepower_kills }
 		relative_position_id = FRA_defensive_focus
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1041,7 +1041,7 @@
 		prerequisite = { focus = FRA_heavy_armor_focus }
 		mutually_exclusive = { }
 		relative_position_id = FRA_heavy_armor_focus
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1127,7 +1127,7 @@
 		prerequisite = { focus = FRA_defensive_focus focus = FRA_aggressive_focus }
 		mutually_exclusive = { }
 		relative_position_id = FRA_defensive_focus
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1268,7 +1268,7 @@
 		prerequisite = { focus = FRA_aggressive_focus }
 		mutually_exclusive = { focus = FRA_air_dominance }
 		relative_position_id = FRA_aggressive_focus
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -1409,7 +1409,7 @@
 		prerequisite = { focus = FRA_cas_focus }
 		mutually_exclusive = { }
 		relative_position_id = FRA_air_dominance
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -2371,7 +2371,7 @@
 			focus = FRA_loyalty_to_moscow
 		}
 		relative_position_id = FRA_loyalty_to_moscow
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -2842,7 +2842,7 @@
 			focus = FRA_form_the_popular_front
 		}
 		relative_position_id = FRA_form_the_popular_front
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3680,7 +3680,7 @@
 			focus = FRA_review_foreign_policy
 		}
 		relative_position_id = FRA_review_foreign_policy
-		cost = 5
+		cost = 2
 
 		ai_will_do = {
 			factor = 1
@@ -3727,7 +3727,7 @@
 		}
 		mutually_exclusive = { focus = FRA_buy_time }
 		relative_position_id = FRA_review_foreign_policy
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4177,7 +4177,7 @@
 		}
 		mutually_exclusive = { focus = FRA_confirm_eastern_commitments }
 		relative_position_id = FRA_review_foreign_policy
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4283,7 +4283,7 @@
 		x = 0
 		y = 1
 		relative_position_id = FRA_strengthen_government_support
-		cost = 10
+		cost = 20
 
 		available_if_capitulated = yes
 
@@ -4320,7 +4320,7 @@
 		x = 0
 		y = 1
 		relative_position_id = FRA_buy_time
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 
@@ -4357,7 +4357,7 @@
 			focus = FRA_go_with_britain
 		}
 		relative_position_id = FRA_go_with_britain
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -8602,7 +8602,7 @@
 		x = -3
 		y = 1
 		relative_position_id = FRA_naval_rearmament
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 
@@ -9021,7 +9021,7 @@
 		x = 3
 		y = 1
 		relative_position_id = FRA_rush_the_richelieus
-		cost = 10
+		cost = 5
 		search_filters = { FOCUS_FILTER_RESEARCH }
 		available_if_capitulated = yes
 
@@ -9197,7 +9197,7 @@
 		x = 1
 		y = 1
 		relative_position_id = FRA_fighter_focus
-		cost = 10
+		cost = 5
 		search_filters = { FOCUS_FILTER_RESEARCH }
 		available_if_capitulated = yes
 

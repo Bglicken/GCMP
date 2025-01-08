@@ -47,7 +47,7 @@ focus_tree = {
 		icon = GFX_focus_generic_cryptologic_bomb
 		x = 0
 		y = 0
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}
@@ -384,7 +384,7 @@ focus_tree = {
 		x = -4
 		y = 1
 		relative_position_id = limited_rearmament_focus
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}
@@ -767,7 +767,7 @@ focus_tree = {
 		
 		relative_position_id = uk_industrial_focus
 
-		cost = 5
+		cost = 10
 
 		available_if_capitulated = no
 
@@ -1794,7 +1794,7 @@ focus_tree = {
 			}
 		}
 		relative_position_id = uk_convoy_focus
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}
@@ -2157,7 +2157,7 @@ focus_tree = {
 			}
 		}
 		relative_position_id = uk_empire_focus
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 
@@ -2665,7 +2665,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = uk_balkan_strategy
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}
@@ -3294,7 +3294,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ENG_foundations_for_an_indian_state
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}	
@@ -5539,7 +5539,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = uk_burma_focus
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}
@@ -5870,7 +5870,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = hongkong_focus
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}	
@@ -7113,7 +7113,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = uk_india_focus
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 			#modifier = {
@@ -8457,7 +8457,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = ENG_no_further_appeasement
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 10
 		}
@@ -8569,7 +8569,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ENG_no_further_appeasement
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 10
 		}
@@ -10273,7 +10273,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ENG_the_british_path_to_fascism
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}	
@@ -10694,7 +10694,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = ENG_god_save_the_king
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}	
@@ -12435,7 +12435,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ENG_tackle_capitalism
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}	

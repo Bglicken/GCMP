@@ -372,7 +372,7 @@ focus_tree = {
 		x = 7 
 		y = 1
 		relative_position_id = ETH_ecole_militaire_haile_selassie_1er
-		cost = 10
+		cost = 5
 		available = {
 		}
 		ai_will_do = {
@@ -622,7 +622,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ETH_keep_the_chitet
-		cost = 10
+		cost = 5
 		available = {
 		}
 		ai_will_do = {
@@ -764,7 +764,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ETH_the_ethiopian_air_force
-		cost = 10
+		cost = 5
 		available = {
 		}
 		ai_will_do = {
@@ -1108,7 +1108,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ETH_asmera_naval_college
-		cost = 10
+		cost = 5
 		available = {
 		}
 		ai_will_do = {
@@ -1130,7 +1130,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ETH_the_junior_officer_corps
-		cost = 10
+		cost = 5
 		available = {
 		}
 		ai_will_do = {
@@ -1290,7 +1290,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ETH_new_weapons_and_tactics
-		cost = 10
+		cost = 5
 		available = {
 		}
 		ai_will_do = {
@@ -1416,7 +1416,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = ETH_develop_the_capital_region
-		cost = 10
+		cost = 5
 		available = {
 			any_owned_state = {
 				is_controlled_by = ROOT
@@ -1595,7 +1595,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = ETH_infrastructure_projects
-		cost = 10
+		cost = 5
 		available = {
 			any_controlled_state = { 
 				is_coastal = yes 
@@ -1647,7 +1647,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ETH_infrastructure_projects
-		cost = 10
+		cost = 5
 		available = {
 			all_owned_state = {
 				is_controlled_by = ROOT
@@ -1816,7 +1816,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ETH_encourage_local_development
-		cost = 5
+		cost = 2
 		available = {
 		}
 		ai_will_do = {
@@ -1876,7 +1876,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ETH_a_port_of_our_own
-		cost = 10
+		cost = 5
 		available = {
 			any_controlled_state = { is_coastal = yes }
 		}
@@ -1926,7 +1926,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ETH_expanding_the_railway_network
-		cost = 10
+		cost = 5
 		available = {
 			OR = {
 				836 = { is_controlled_by = ROOT }
@@ -1994,7 +1994,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ETH_increased_factory_output
-		cost = 5
+		cost = 2
 		available = {
 		}
 		ai_will_do = {
@@ -2469,7 +2469,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ETH_modernizing_the_industry
-		cost = 10
+		cost = 5
 		available = {
 			OR = {
 				835 = { is_controlled_by_ROOT_or_ally = yes }
@@ -2517,7 +2517,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = ETH_ethiopian_industrial_research_institute
-		cost = 10
+		cost = 5
 		available = {
 		
 		}
@@ -2613,7 +2613,7 @@ focus_tree = {
  		x = 32
  		y = 0
  		#relative_position_id =
- 		cost = 5
+ 		cost = 2
  		available = {
  			has_global_flag = second_italo_ethiopian_war_flag
  		}
@@ -2876,7 +2876,7 @@ focus_tree = {
  		x = 1
  		y = 1
  		relative_position_id = ETH_northern_thrust
- 		cost = 10
+ 		cost = 5
  		available = {
  			has_global_flag = second_italo_ethiopian_war_flag
  			has_war_escalation_level_4 = yes 
@@ -2996,7 +2996,7 @@ focus_tree = {
  		x = 1
  		y = 1
  		relative_position_id = ETH_the_defense_of_addis_ababa
- 		cost = 5
+ 		cost = 10
  		available = {
  			838 = { is_controlled_by_ROOT_or_ally = yes }
  			surrender_progress > 0.5
@@ -4006,7 +4006,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ETH_the_ferengi
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			base = 1
 		}
@@ -4320,7 +4320,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ETH_reclaiming_ethiopia
-		cost = 10
+		cost = 5
 		available = {
 			all_owned_state = { is_controlled_by_ROOT_or_ally = yes }
 		}
@@ -4345,7 +4345,7 @@ focus_tree = {
 		x = -3 
 		y = 1
 		relative_position_id = ETH_reclaiming_ethiopia
-		cost = 10
+		cost = 5
 		available = {
 			all_owned_state = { is_controlled_by_ROOT_or_ally = yes }
 		}
@@ -4428,7 +4428,7 @@ focus_tree = {
 		x = -3
 		y = 1
 		relative_position_id = ETH_rebuilding_the_country
-		cost = 10
+		cost = 5
 		available = {
 			
 		}
@@ -4463,7 +4463,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ETH_reintegrate_aussa
-		cost = 10
+		cost = 5
 		available = {
 			NOT = { has_war_with = 268.owner }
 			268 = {
@@ -6579,7 +6579,7 @@ focus_tree = {
 		x = -1
 		y = 1
 			
-		cost = 10
+		cost = 2
 		available = {
 			AND = {
 				country_exists = SPC
@@ -7022,7 +7022,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		
-		cost = 10
+		cost = 5
 		available = {}
 		icon = GFX_goal_generic_positive_trade_relations
 		
@@ -7142,7 +7142,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		
-		cost = 10
+		cost = 5
 		available = {
 			ROOT = { num_of_naval_factories > 1}
 		}		
@@ -8093,7 +8093,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = ETH_cooperation
-		cost = 10
+		cost = 5
 		available = {
 		}
 

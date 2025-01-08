@@ -2677,7 +2677,7 @@ focus_tree = {
 		x = 1
 		y = 2
 		relative_position_id = GER_concentrated_armament_program
-		cost = 10
+		cost = 5
 		available = {
 			has_war_with_major = yes
 			has_civil_war = no
@@ -2962,7 +2962,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_develop_modern_maneuver_warfare
-		cost = 5
+		cost = 2
 		available = {
 		}
 
@@ -4243,7 +4243,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = GER_improve_the_logistics_system
-		cost = 5
+		cost = 10
 		available = {
 			has_war_with_major = yes
 		}
@@ -5612,7 +5612,7 @@ focus_tree = {
 		x = -1
 		y = 2
 		relative_position_id = GER_reorganize_the_luftwaffe
-		cost = 10
+		cost = 5
 		available = {
 			GER_hermann_goring = {
 				is_air_chief = no
@@ -6055,7 +6055,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = GER_torpedobomber
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -6292,7 +6292,7 @@ focus_tree = {
 		x = 12
 		y = 0
 		relative_position_id = GER_expanding_the_luftwaffe
-		cost = 5
+		cost = 10
 		available = {
 		}
 
@@ -7062,7 +7062,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = GER_construct_aircraft_carriers
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -7773,7 +7773,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_wolfpack_tactics
-		cost = 5
+		cost = 10
 		available = {
 			NOT = { has_completed_focus = GER_unrestricted_convoy_raiding }
 		}
@@ -8325,7 +8325,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = GER_war_preparations
-		cost = 10
+		cost = 5
 		available = {
 			is_subject = no
 			has_war = no
@@ -9091,7 +9091,7 @@ focus_tree = {
 		x = -14
 		y = 1
 		relative_position_id = GER_remilitarize_the_rhineland
-		cost = 5
+		cost = 2
 		available = {
 		}
 
@@ -9268,7 +9268,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_army_indoctrination
-		cost = 5
+		cost = 2
 		available = {
 		}
 
@@ -9488,7 +9488,7 @@ focus_tree = {
 		x = 17
 		y = 1
 		relative_position_id = GER_heed_von_neuraths_concerns
-		cost = 5
+		cost = 2
 		available = {
 			has_government = fascism
 		}
@@ -9514,7 +9514,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_uplift_the_rosenberg_office
-		cost = 5
+		cost = 2
 		available = {
 			has_government = fascism
 			OR = {
@@ -11334,7 +11334,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = GER_fate_of_czechoslovakia
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -11561,7 +11561,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_danzig_for_slovakia
-		cost = 5
+		cost = 2
 		
 		bypass = {
 			is_in_faction_with = POL
@@ -11716,7 +11716,7 @@ focus_tree = {
 		x = -1
 		y = 2
 		relative_position_id = GER_danzig_or_war
-		cost = 4
+		cost = 5
 
 		will_lead_to_war_with = BEL
 		will_lead_to_war_with = HOL
@@ -11869,7 +11869,7 @@ focus_tree = {
 		x = 1
 		y = 2
 		relative_position_id = GER_danzig_or_war
-		cost = 4
+		cost = 5
 
 		will_lead_to_war_with = DEN 
 		will_lead_to_war_with = NOR
@@ -12042,7 +12042,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = GER_around_maginot
-		cost = 10
+		cost = 5
 
 		bypass = {
 			OR = {
@@ -12258,7 +12258,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = GER_war_with_france
-		cost = 10
+		cost = 5
 
 		will_lead_to_war_with = SWI
 		
@@ -12550,7 +12550,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = GER_operation_sea_lion
-		cost = 4
+		cost = 2
 
 		ai_will_do = {
 			factor = 10
@@ -12634,7 +12634,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = GER_operation_sea_lion
-		cost = 10
+		cost = 5
 
 		cancel_if_invalid = yes
 		
@@ -13007,7 +13007,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = GER_challenge_the_monroe_doctrine
-		cost = 10
+		cost = 5
 		available = {
 			is_subject = no
 			has_government = fascism
@@ -14136,7 +14136,7 @@ focus_tree = {
 		x = 2
 		y = 0
 		relative_position_id = GER_reorganize_the_wehrmacht
-		cost = 5
+		cost = 2
 		
 		bypass = {
 			SOU = {
@@ -14207,7 +14207,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = GER_anti_comintern_pact
-		cost = 10
+		cost = 5
 		
 		available = {
 			is_subject = no
@@ -14633,7 +14633,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = GER_treaty_with_the_ussr
-		cost = 10
+		cost = 20
 		
 		bypass = {
 			SOV = {
@@ -21220,7 +21220,7 @@ focus_tree = {
 		x = 0
 		y = 3
 		relative_position_id = GER_oppose_hitler_ww
-		cost = 2
+		cost = 5
 		available = {
 			has_civil_war = no
 		}
@@ -25047,7 +25047,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = GER_tend_to_the_future_of_germany
 		
-		cost = 2
+		cost = 5
 
 		available = {
 		}
@@ -26131,7 +26131,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = GER_revive_the_kaiserreich_ww
 
-		cost = 2
+		cost = 5
 
 		available = {
 			has_government = neutrality
@@ -26170,7 +26170,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = GER_revive_the_kaiserreich_ww
-		cost = 2
+		cost = 5
 		available = {
 			has_government = neutrality
 		}
@@ -26911,7 +26911,7 @@ focus_tree = {
 		y = 5
 		relative_position_id = GER_the_monarchy_compromise_ww
 
-		cost = 2
+		cost = 5
 
 		available = {
 			is_subject = no
@@ -26961,7 +26961,7 @@ focus_tree = {
 		x = -9
 		y = 1
 		relative_position_id = GER_realpolitik
-		cost = 2
+		cost = 5
 		available = {
 			is_subject = no
 			OR = {
@@ -31904,7 +31904,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = GER_carve_up_congo
-		cost = 10
+		cost = 5
 		available = {
 			has_added_tension_amount < 25
 			is_subject = no
@@ -35254,7 +35254,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = GER_carte_blanche_for_alsace_and_french_colonies
-		cost = 4
+		cost = 5
 		ai_will_do = {
 			factor = 10
 		}

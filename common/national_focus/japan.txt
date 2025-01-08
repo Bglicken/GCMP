@@ -1007,7 +1007,7 @@
 			}
 		}
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 4
@@ -1068,7 +1068,7 @@
 		y = 1
 		relative_position_id = JAP_purge_the_kodoha_faction
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2
@@ -1102,7 +1102,7 @@
 		y = 1
 		relative_position_id = JAP_liaison_conference
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2
@@ -1429,7 +1429,7 @@
 		y = 1
 		relative_position_id = JAP_non_aggression_pact_with_the_soviet_union
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 3
@@ -1775,7 +1775,7 @@
 		y = 1
 		relative_position_id = JAP_strike_south_doctrine
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 3
@@ -1909,7 +1909,7 @@
 		y = 1
 		relative_position_id = JAP_liaison_conference
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 3
@@ -2600,7 +2600,7 @@
 		y = 1
 		relative_position_id = JAP_national_defense_state
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -2651,7 +2651,7 @@
 		y = 1
 		relative_position_id = JAP_spiritual_mobilization
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 3
@@ -4618,7 +4618,7 @@
 		y = 1
 		relative_position_id = JAP_the_manchurian_project
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4764,7 +4764,7 @@
 		y = 2
 		relative_position_id = JAP_expand_manchurian_railways
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4803,7 +4803,7 @@
 		y = 1
 		relative_position_id = JAP_the_manchurian_project 
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4857,7 +4857,7 @@
 		y = 0
 		relative_position_id = JAP_the_manchurian_project 
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -5045,7 +5045,7 @@
 		y = 1
 		relative_position_id = JAP_supremacy_of_technology
 
-		cost = 5
+		cost = 2
 
 		ai_will_do = {
 			factor = 1
@@ -5077,7 +5077,7 @@
 		y = 1
 		relative_position_id = JAP_army_expansion_law
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -5199,7 +5199,7 @@
 		y = 1
 		relative_position_id = JAP_fighter_modernization
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -5244,7 +5244,7 @@
 		y = 1
 		relative_position_id = JAP_fighter_modernization
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -5639,7 +5639,7 @@
 		y = 1
 		relative_position_id = JAP_new_naval_estimates
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
