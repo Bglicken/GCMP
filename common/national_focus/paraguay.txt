@@ -357,7 +357,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = PAR_reach_out_to_european_contacts
 		prerequisite = { focus = PAR_reach_out_to_european_contacts }
-		cost = 10
+		cost = 5
 		search_filters = {  }
 		completion_reward = {
 			add_equipment_to_stockpile = { 
