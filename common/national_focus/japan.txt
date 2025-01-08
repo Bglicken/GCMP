@@ -472,7 +472,7 @@
 		y = 1
 		relative_position_id = JAP_the_fate_of_the_imperial_family
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -596,7 +596,7 @@
 		y = 3
 		relative_position_id = JAP_the_fate_of_the_imperial_family
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -692,7 +692,7 @@
 		y = 2
 		relative_position_id = JAP_red_brigades
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -899,7 +899,7 @@
 		y = 1
 		relative_position_id = JAP_nationalize_the_zaibatsus
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -2932,7 +2932,7 @@
 		relative_position_id = JAP_modern_shogunate
 		dynamic = yes  
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2
@@ -3021,7 +3021,7 @@
 		y = 1
 		relative_position_id = JAP_prepare_for_war_with_the_soviet_union
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3067,7 +3067,7 @@
 		y = 1
 		relative_position_id = JAP_prepare_for_war_with_the_soviet_union
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3602,7 +3602,7 @@
 			}
 		}
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2
@@ -3958,7 +3958,7 @@
 		y = 1
 		relative_position_id = JAP_the_showa_constitution
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3996,7 +3996,7 @@
 		y = 1
 		relative_position_id = JAP_the_showa_constitution
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -4095,7 +4095,7 @@
 		y = 1
 		relative_position_id = JAP_pacific_guardian
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
