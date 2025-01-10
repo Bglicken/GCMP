@@ -20,7 +20,7 @@ political_actions = {
 		}	
 		visible = {	
 			original_tag = SOV	
-			#date > 1939.1.1	
+			date > 1939.1.1	
 			country_exists = GER	
 			NOT = { GER = { has_completed_focus = GER_molotov_ribbentrop_pact } }	
 		}	
