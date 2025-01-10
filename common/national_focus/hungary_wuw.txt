@@ -5151,7 +5151,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = wuw_HUN_secure_army_loyalty
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -7986,7 +7986,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = wuw_HUN_strengthen_horthys_reign
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 5
@@ -13640,7 +13640,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = wuw_HUN_restore_the_hungarian_red_army
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -15821,7 +15821,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_INDUSTRY }
 
-		cost = 5
+		cost = 10
 
 		ai_will_do = {
 			factor = 10
@@ -16558,7 +16558,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_NAVY_XP FOCUS_FILTER_MILITARY_CHARACTER FOCUS_FILTER_INDUSTRY }
 
-		cost = 5
+		cost = 2
 
 		ai_will_do = {
 			factor = 5
@@ -17244,7 +17244,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = wuw_HUN_expand_the_lignite_industry
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 5
@@ -18548,7 +18548,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_MILITARY_CHARACTER FOCUS_FILTER_HISTORICAL }
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -18882,7 +18882,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_RESEARCH }
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 15
@@ -20391,7 +20391,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_NAVY_XP }
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -20434,7 +20434,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_NAVY_XP }
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -20605,7 +20605,7 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_RESEARCH FOCUS_FILTER_NAVY_XP }
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1

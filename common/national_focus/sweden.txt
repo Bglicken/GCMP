@@ -5598,7 +5598,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		#mutually_exclusive = {focus = SWE_finlands_cause_is_ours}
-		cost = 20
+		cost = 10
 		prerequisite = { focus = SWE_nordic_defense_fleet }
 		relative_position_id = SWE_nordic_defense_fleet
 		
@@ -7178,7 +7178,7 @@ focus_tree = {
 		x = -8
 		y = 1
 		#mutually_exclusive = {focus = SWE_land_air_warfare}
-		cost = 10
+		cost = 5
 		prerequisite = { focus = SWE_totalforsvar }
 		relative_position_id = SWE_totalforsvar
 		
@@ -7224,7 +7224,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		#mutually_exclusive = {focus = SWE_land_air_warfare}
-		cost = 10
+		cost = 5
 		prerequisite = { focus = SWE_hemvarnet }
 		relative_position_id = SWE_hemvarnet
 		
@@ -7307,7 +7307,7 @@ focus_tree = {
 		x = -4
 		y = 1
 		mutually_exclusive = {focus = SWE_secret_mobilization}
-		cost = 10
+		cost = 5
 		prerequisite = { focus = SWE_totalforsvar }
 		relative_position_id = SWE_totalforsvar
 		

@@ -2443,7 +2443,7 @@ focus_tree = {
 		y = 3
 		relative_position_id = HUN_council_of_peoples_commissars
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 70
@@ -4997,7 +4997,7 @@ focus_tree = {
 		y = 3
 		relative_position_id = HUN_naval_warfare
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 50
@@ -5258,7 +5258,7 @@ focus_tree = {
 		y = 4
 		relative_position_id = HUN_naval_warfare
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 50
