@@ -1,0 +1,12 @@
+﻿add_namespace = gencorner
+
+country_event = { 		
+	id = gencorner.11 #Demand Molotov-Ribbentrop		
+	title = gencorner.11.t		
+	desc = gencorner.11.desc		
+	picture = GFX_report_event_german_reichstag_gathering		
+	is_triggered_only = yes		
+	option = {		
+		name = gencorner.11.a #Ok		
+	}		
+}
