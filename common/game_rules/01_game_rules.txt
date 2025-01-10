@@ -1,0 +1,111 @@
+player_declarations = {
+	name = "RULE_PLAYER_DECLARATIONS"
+	group = "RULE_GROUP_GAMEPLAY"
+	icon = "GFX_wargoals"
+	option = {
+		name = yes
+		text = "RULE_OPTION_ALLOWED"
+		desc = "RULE_PLAYER_DECLARATIONS_ALLOWED_DESC"
+	}
+	option = {
+		name = year_1939
+		text = "RULE_OPTION_1939"
+		desc = "RULE_PLAYER_DECLARATIONS_1939_DESC"
+	}
+}
+
+#ie_tech = {
+#	name = "RULE_IE_TECH"
+#	group = "RULE_GROUP_GAMEPLAY"
+#	icon = "GFX_production_licenses"
+#	option = {
+#		name = no
+#		text = "RULE_OPTION_BLOCKED"
+#		desc = "RULE_IE_TECH_BLOCKED_DESC"
+#	}
+#	option = {
+#		name = yes
+#		text = "RULE_OPTION_ALLOWED"
+#		desc = "RULE_IE_TECH_ALLOWED_DESC"
+#	}
+#}
+
+sca_fragmentation_status = {
+	name = "SCA_FRAGMENTATION_STATUS"
+	group = "RULE_GROUP_GAME_SETUP"
+	default = {
+		name = DEFAULT
+		text = "RULE_OPTION_DEFAULT"
+		desc = "RULE_OPTION_DEFAULT_FRAGMENTATION_DESC"
+	}
+	option = {
+		name = SCA_FRAGMENTED
+		text = "RULE_OPTION_SCA_FRAGMENTED"
+		desc = "RULE_OPTION_SCA_FRAGMENTED_DESC"
+	}
+}
+
+bra_fragmentation_status = {
+	name = "BRA_FRAGMENTATION_STATUS"
+	group = "RULE_GROUP_GAME_SETUP"
+	default = {
+		name = DEFAULT
+		text = "RULE_OPTION_DEFAULT"
+		desc = "RULE_OPTION_DEFAULT_FRAGMENTATION_DESC"
+	}
+	option = {
+		name = BRA_FRAGMENTED
+		text = "RULE_OPTION_BRA_FRAGMENTED"
+		desc = "RULE_OPTION_BRA_FRAGMENTED_DESC"
+	}
+}
+
+mex_fragmentation_status = {
+	name = "MEX_FRAGMENTATION_STATUS"
+	group = "RULE_GROUP_GAME_SETUP"
+	default = {
+		name = DEFAULT
+		text = "RULE_OPTION_DEFAULT"
+		desc = "RULE_OPTION_DEFAULT_FRAGMENTATION_DESC"
+	}
+	option = {
+		name = MEX_FRAGMENTED
+		text = "RULE_OPTION_MEX_FRAGMENTED"
+		desc = "RULE_OPTION_MEX_FRAGMENTED_DESC"
+	}
+}
+
+per_fragmentation_status = {
+	name = "PER_FRAGMENTATION_STATUS"
+	group = "RULE_GROUP_GAME_SETUP"
+	default = {
+		name = DEFAULT
+		text = "RULE_OPTION_DEFAULT"
+		desc = "RULE_OPTION_DEFAULT_FRAGMENTATION_DESC"
+	}
+	option = {
+		name = PER_FRAGMENTED
+		text = "RULE_OPTION_PER_FRAGMENTED"
+		desc = "RULE_OPTION_PER_FRAGMENTED_DESC"
+	}
+}
+
+bel_fragmentation_status = {
+	name = "BEL_FRAGMENTATION_STATUS"
+	group = "RULE_GROUP_GAME_SETUP"
+	default = {
+		name = DEFAULT
+		text = "RULE_OPTION_DEFAULT"
+		desc = "RULE_OPTION_DEFAULT_FRAGMENTATION_DESC"
+	}
+	option = {
+		name = BEL_FRAGMENTED
+		text = "RULE_OPTION_BEL_FRAGMENTED"
+		desc = "RULE_OPTION_BEL_FRAGMENTED_DESC"
+	}
+	option = {
+		name = BEL_FRAGMENTED2
+		text = "RULE_OPTION_BEL_FRAGMENTED2"
+		desc = "RULE_OPTION_BEL_FRAGMENTED2_DESC"
+	}
+}
