@@ -1,20 +1,20 @@
 on_actions = {
-	on_declare_war = {	
-		effect {	
-			if = {	
-				limit = {	
-					FROM = {	
-						TAG = AUS	
-					}	
-					ROOT = {	
-						NOT = { TAG = GER }	
-						NOT = { TAG = AUS }	
-					}	
-				}	
-				GER = { country_event = { id = gencorner.3 } }	
-			}
-		}
-	}
+#	on_declare_war = {	
+#		effect {	
+#			if = {	
+#				limit = {	
+#					FROM = {	
+#						TAG = AUS	
+#					}	
+#					ROOT = {	
+#						NOT = { TAG = GER }	
+#						NOT = { TAG = AUS }	
+#					}	
+#				}	
+#				GER = { country_event = { id = gencorner.3 } }	
+#			}
+#		}
+#	}
 	on_declare_war = {	
 		effect {	
 			if = {	
