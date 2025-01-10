@@ -2893,7 +2893,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = POL_pan_slavic_revanchism
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -2996,7 +2996,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = POL_dissolve_the_bbwr
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -4644,7 +4644,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = POL_align_with_the_west
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -4714,7 +4714,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = POL_join_allies
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -5927,7 +5927,7 @@ focus_tree = {
 
 		x = 2
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5
@@ -6273,7 +6273,7 @@ focus_tree = {
 
 		x = -3
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -6448,7 +6448,7 @@ focus_tree = {
 
 		x = -1
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 10
@@ -7320,7 +7320,7 @@ focus_tree = {
 
 		x = -1
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5
@@ -8288,7 +8288,7 @@ focus_tree = {
 
 		x = 0
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5
@@ -8323,7 +8323,7 @@ focus_tree = {
 
 		x = -1
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5
@@ -8498,7 +8498,7 @@ focus_tree = {
 
 		x = 1
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5
@@ -8784,7 +8784,7 @@ focus_tree = {
 
 		x = 0
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5
@@ -10372,7 +10372,7 @@ focus_tree = {
 
 		x = 1
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5
@@ -10931,7 +10931,7 @@ focus_tree = {
 
 		x = 0
 		y = 1
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 2.5
