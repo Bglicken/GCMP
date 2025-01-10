@@ -72,6 +72,48 @@ on_actions = {
 				37 = {
 					add_core_of = SWE
 				}
+				924 = {
+					add_core_of = SWE
+				}
+				925 = {
+					add_core_of = SWE
+				}
+				923 = {
+					add_core_of = SWE
+				}
+				920 = {
+					add_core_of = SWE
+				}
+				921 = {
+					add_core_of = SWE
+				}
+				922 = {
+					add_core_of = SWE
+				}
+				929 = {
+					add_core_of = SWE
+				}
+				928 = {
+					add_core_of = SWE
+				}
+				930 = {
+					add_core_of = SWE
+				}
+				926 = {
+					add_core_of = SWE
+				}
+				927 = {
+					add_core_of = SWE
+				}
+				910 = {
+					add_core_of = SWE
+				}
+				911 = {
+					add_core_of = SWE
+				}
+				912 = {
+					add_core_of = SWE
+				}
 				99 = {
 					add_core_of = SWE
 				}
@@ -127,6 +169,11 @@ on_actions = {
 					delete_unit = { state = 150 }
 					delete_unit = { state = 146 }
 					delete_unit = { state = 111 }
+					delete_unit = { state = 929 }
+					delete_unit = { state = 926 }
+					delete_unit = { state = 927 }
+					delete_unit = { state = 928 }
+					delete_unit = { state = 930 }
 				}
 				NOR = {
 					release = SWE
@@ -134,11 +181,16 @@ on_actions = {
 					delete_unit = { state = 143 }
 					delete_unit = { state = 142 }
 					delete_unit = { state = 110 }
+					delete_unit = { state = 925 }
+					delete_unit = { state = 920 }
+					delete_unit = { state = 922 }
 				}
 				DEN = {
 					release = SWE
 					delete_unit = { state = 37 }
 					delete_unit = { state = 99 }
+					delete_unit = { state = 911 }
+					delete_unit = { state = 912 }
 				}
 				SWE = {
 					set_cosmetic_tag = SCA_UNIFIED
@@ -153,6 +205,51 @@ on_actions = {
 					}
 				}
 				309 = { 
+					add_core_of = BRA
+				}
+				947 = { 
+					add_core_of = BRA
+				}
+				951 = { 
+					add_core_of = BRA
+				}
+				957 = { 
+					add_core_of = BRA
+				}
+				959 = { 
+					add_core_of = BRA
+				}
+				945 = { 
+					add_core_of = BRA
+				}
+				946 = { 
+					add_core_of = BRA
+				}
+				952 = { 
+					add_core_of = BRA
+				}
+				956 = { 
+					add_core_of = BRA
+				}
+				958 = { 
+					add_core_of = BRA
+				}
+				960 = { 
+					add_core_of = BRA
+				}
+				949 = { 
+					add_core_of = BRA
+				}
+				950 = { 
+					add_core_of = BRA
+				}
+				953 = { 
+					add_core_of = BRA
+				}
+				954 = { 
+					add_core_of = BRA
+				}
+				955 = { 
 					add_core_of = BRA
 				}
 				310 = { 
@@ -276,6 +373,7 @@ on_actions = {
 					release = BRA
 					delete_unit = { state = 303 }
 					delete_unit = { state = 492 }
+					delete_unit = { state = 491 }
 					delete_unit = { state = 490 }
 				}
 				BOL = {
@@ -291,6 +389,8 @@ on_actions = {
 					release = BRA
 					delete_unit = { state = 506 }
 					delete_unit = { state = 279 }
+					delete_unit = { state = 951 }
+					delete_unit = { state = 950 }
 				}
 				ARG = {
 					release = BRA
@@ -299,6 +399,9 @@ on_actions = {
 					delete_unit = { state = 511 }
 					delete_unit = { state = 512 }
 					delete_unit = { state = 508 }
+					delete_unit = { state = 956 }
+					delete_unit = { state = 958 }
+					delete_unit = { state = 955 }
 				}
 				URG = {
 					release = BRA
