@@ -6669,7 +6669,7 @@ focus_tree = {
 		x = 3
 		y = 0
 		relative_position_id = FIN_weapon_caches
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -12522,7 +12522,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = FIN_suomen_ilmavoimat
-		cost = 10
+		cost = 5
 		available = {
 		}
 

@@ -1820,7 +1820,7 @@ focus_tree = {
 		x = 1
 		y = 2
 		relative_position_id = naval_rearmament_focus
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 1
 		}
@@ -2376,7 +2376,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = uk_mediterranean_focus
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -2732,7 +2732,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = uk_protect_suez
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -2816,7 +2816,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = uk_protect_suez
 
-		cost = 10
+		cost = 5
 
 		search_filters = { FOCUS_FILTER_POLITICAL }
 
@@ -3395,7 +3395,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = ENG_foundations_for_an_indian_state
-		cost = 10
+		cost =
 		ai_will_do = {
 			factor = 1
 		}
@@ -5820,7 +5820,7 @@ focus_tree = {
 		x = 2
 		y = 1
 		relative_position_id = uk_asia_focus
-		cost = 10
+		cost = 5
 		ai_will_do = {
 			factor = 0.25
 		}
@@ -6042,7 +6042,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = hk_air_focus
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1

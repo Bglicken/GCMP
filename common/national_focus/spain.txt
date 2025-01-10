@@ -702,7 +702,7 @@ focus_tree = {
 		x = -3
 		y = 1
 		relative_position_id = SPA_the_phalanx_ascendant
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 
@@ -1925,7 +1925,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = SPA_glory_and_wealth_on_the_sea_lanes
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_RESEARCH}
@@ -2686,7 +2686,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = SPA_the_national_syndicalist_state
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 
@@ -2732,7 +2732,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = SPA_the_national_and_popular_army_of_spain
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_RESEARCH}
@@ -3050,7 +3050,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = SPA_fascist_economic_aid
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_INDUSTRY}
@@ -3140,7 +3140,7 @@ focus_tree = {
 		x = 1
 		y = 2
 		relative_position_id = SPA_fascist_economic_aid
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_INDUSTRY}
@@ -4456,7 +4456,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = SPA_the_stabilization_plan
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 
@@ -5181,7 +5181,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = SPA_expand_the_slipways
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_RESEARCH}
@@ -6347,7 +6347,7 @@ focus_tree = {
 		x = 3
 		y = 1
 		relative_position_id = SPA_the_crusade_against_democracy
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_RESEARCH}
@@ -10571,7 +10571,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = SPR_the_red_tide
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_RESEARCH}
@@ -12963,7 +12963,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = SPR_reprofessionalize_the_military
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_RESEARCH}
@@ -12992,7 +12992,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = SPR_experiences_from_the_civil_war
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 
@@ -13139,7 +13139,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = SPR_navy_modernization
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_RESEARCH}

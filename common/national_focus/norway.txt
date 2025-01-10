@@ -1592,7 +1592,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = NOR_reawaken_the_permanent_revolution
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -2297,7 +2297,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = NOR_invite_secret_army
-		cost = 10
+		cost = 5
 		available = {
 			any_other_country = {
 				has_government = communism 
@@ -2428,7 +2428,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = NOR_field_hospitals
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -2451,7 +2451,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = NOR_join_the_comintern
-		cost = 10
+		cost = 5
 		available = {
 			any_other_country = {
 				has_government = communism 
@@ -2794,7 +2794,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = NOR_uproot_secret_army
-		cost = 10
+		cost = 5
 		available = {
 			owns_state = 925
 		}
@@ -2860,7 +2860,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = NOR_reform_the_army
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -3773,7 +3773,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = NOR_the_kings_no
-		cost = 10
+		cost = 5
 		
 		available_if_capitulated = yes 
 		
@@ -3801,7 +3801,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = NOR_the_kings_no
-		cost = 10
+		cost = 5
 
 		available_if_capitulated = yes 
 		
@@ -3829,7 +3829,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = NOR_establish_milorg
-		cost = 10
+		cost = 5
 		
 		available_if_capitulated = yes 
 		
@@ -4469,7 +4469,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = NOR_nasjonal_samling
-		cost = 10
+		cost = 5
 		available = {
 			NOT = {
 				has_government = fascism
@@ -4775,7 +4775,7 @@ focus_tree = {
 		x = 3
 		y = 1
 		relative_position_id = NOR_quislings_regime
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -4858,7 +4858,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = NOR_elevate_hirden
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -5292,7 +5292,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = NOR_fascist_military_collaboration
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -5619,7 +5619,7 @@ focus_tree = {
 		x = -2
 		y = 1
 		relative_position_id = NOR_a_valuable_partner_to_germany
-		cost = 10
+		cost = 5
 		available = {
 			GER = {
 				exists = yes 
@@ -5885,7 +5885,7 @@ focus_tree = {
 		x = -1
 		y = 1
 		relative_position_id = NOR_the_kingdom_of_norway
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -5915,7 +5915,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = NOR_the_kingdom_of_norway
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -6170,7 +6170,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = NOR_rule_the_northern_sea
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -8828,7 +8828,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = NOR_foreign_plane_designs
-		cost = 10
+		cost = 5
 		available = {
 			any_owned_state = {
 				is_controlled_by = ROOT 
@@ -9598,7 +9598,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = NOR_kystvakten
-		cost = 10
+		cost = 5
 		available = {
 			NOR_broken_gun_trigger = yes 
 		}
