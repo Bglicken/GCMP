@@ -40,7 +40,8 @@ political_actions = {
 		}	
 		complete_effect = {	
 			set_country_flag = SOV_demand_molotov	
-			GER = { country_event = { id = germany.7009 } }	
+			#GER = { country_event = { id = germany.7009 } }	
+			GER = { country_event = { id = gencorner.11 } }	
 			activate_mission = SOV_demand_molotov2	
 		}	
 	}	
