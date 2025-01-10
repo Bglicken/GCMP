@@ -1,0 +1,571 @@
+on_actions = {
+	on_declare_war = {	
+		effect {	
+			if = {	
+				limit = {	
+					FROM = {	
+						TAG = AUS	
+					}	
+					ROOT = {	
+						NOT = { TAG = GER }	
+						NOT = { TAG = AUS }	
+					}	
+				}	
+				GER = { country_event = { id = gencorner.3 } }	
+			}
+		}
+	}
+	on_declare_war = {	
+		effect {	
+			if = {	
+				limit = {	
+					has_game_rule = {	
+						rule = player_declarations	
+						option = year_1939	
+					}	
+					date < 1939.01.01	
+					FROM = {	
+						has_civil_war = no	
+					}	
+					OR = { #Japan VS Aisan States Exception for 1937	
+						NOT = { ROOT = { TAG = JAP } }	
+						OR = {	
+							date < 1937.01.01	
+							FROM = {	
+								NOT = {	
+									OR = {	
+										TAG = MAN	
+										TAG = MEN	
+										TAG = YUN	
+										TAG = GXC	
+										TAG = SIA	
+										TAG = BHU	
+										TAG = NEP	
+										TAG = SHX	
+										TAG = XSM	
+										TAG = PRC	
+										TAG = SIK	
+										TAG = CHI	
+										TAG = TIB	
+									}	
+								}	
+							}	
+						}	
+					}	
+				}	
+				FROM = { country_event = { id = gencorner.2 } }	
+			}	
+		}	
+			
+	}
+	
+	on_startup = {
+		effect = {
+			
+			if = {
+				limit = {
+					has_game_rule = {
+						rule = sca_fragmentation_status
+						option = SCA_FRAGMENTED
+					}  
+				}
+				37 = {
+					add_core_of = SWE
+				}
+				99 = {
+					add_core_of = SWE
+				}
+				110 = {
+					add_core_of = SWE
+				}
+				111 = {
+					add_core_of = SWE
+				}
+				142 = {
+					add_core_of = SWE
+				}
+				143 = {
+					add_core_of = SWE
+				}
+				144 = {
+					add_core_of = SWE
+				}
+				145 = {
+					add_core_of = SWE
+				}
+				146 = { 
+					add_core_of = SWE
+				}
+				147 = {
+					add_core_of = SWE
+				}
+				148 = {
+					add_core_of = SWE
+				}
+				149 = {
+					add_core_of = SWE
+				}
+				150 = {
+					add_core_of = SWE
+				}
+				722 = {
+					add_core_of = SWE
+				}
+				100 = {
+					add_core_of = SWE
+				}
+				101 = {
+					add_core_of = SWE
+				}
+				337 = {
+					add_core_of = SWE
+				}
+				FIN = {
+					release = SWE
+					delete_unit = { state = 147 }
+					delete_unit = { state = 149 }
+					delete_unit = { state = 150 }
+					delete_unit = { state = 146 }
+					delete_unit = { state = 111 }
+				}
+				NOR = {
+					release = SWE
+					delete_unit = { state = 144 }
+					delete_unit = { state = 143 }
+					delete_unit = { state = 142 }
+					delete_unit = { state = 110 }
+				}
+				DEN = {
+					release = SWE
+					delete_unit = { state = 37 }
+					delete_unit = { state = 99 }
+				}
+				SWE = {
+					set_cosmetic_tag = SCA_UNIFIED
+				}
+				
+			}
+			if = {
+				limit = {
+					has_game_rule = {
+						rule = bra_fragmentation_status
+						option = BRA_FRAGMENTED
+					}
+				}
+				309 = { 
+					add_core_of = BRA
+				}
+				310 = { 
+					add_core_of = BRA
+				}
+				687 = { 
+					add_core_of = BRA
+				}
+				488 = { 
+					add_core_of = BRA
+				}
+				307 = { 
+					add_core_of = BRA
+				}
+				691 = { 
+					add_core_of = BRA
+				}
+				489 = { 
+					add_core_of = BRA
+				}
+				695 = { 
+					add_core_of = BRA
+				}
+				493 = { 
+					add_core_of = BRA
+				}
+				306 = { 
+					add_core_of = BRA
+				}
+				486 = { 
+					add_core_of = BRA
+				}
+				305 = { 
+					add_core_of = BRA
+				}
+				491 = { 
+					add_core_of = BRA
+				}
+				490 = { 
+					add_core_of = BRA
+				}
+				303 = { 
+					add_core_of = BRA
+				}
+				494 = { 
+					add_core_of = BRA
+				}
+				492 = { 
+					add_core_of = BRA
+				}
+				487 = { 
+					add_core_of = BRA
+				}
+				302 = { 
+					add_core_of = BRA
+				}
+				688 = { 
+					add_core_of = BRA
+				}
+				301 = { 
+					add_core_of = BRA
+				}
+				300 = { 
+					add_core_of = BRA
+				}
+				506 = { 
+					add_core_of = BRA
+				}
+				279 = { 
+					add_core_of = BRA
+				}
+				507 = { 
+					add_core_of = BRA
+				}
+				512 = { 
+					add_core_of = BRA
+				}
+				278 = { 
+					add_core_of = BRA
+				}
+				510 = { 
+					add_core_of = BRA
+				}
+				511 = { 
+					add_core_of = BRA
+				}
+				509 = { 
+					add_core_of = BRA
+				}
+				508 = { 
+					add_core_of = BRA
+				}
+				649 = { 
+					add_core_of = ENG
+				}
+				ENG = {
+					release = BRA
+				}
+				FRA = {
+					release = BRA
+				}
+				HOL = {
+					release = BRA
+				}
+				VEN = {
+					release = BRA
+					delete_unit = { state = 307 }
+				}
+				COL = {
+					release = BRA
+					delete_unit = { state = 493 }
+					delete_unit = { state = 306 }
+					delete_unit = { state = 486 }
+				}
+				ECU = {
+					release = BRA
+					release = ENG
+					delete_unit = { state = 305 }
+				}
+				PRU = {
+					release = BRA
+					delete_unit = { state = 303 }
+					delete_unit = { state = 492 }
+					delete_unit = { state = 490 }
+				}
+				BOL = {
+					release = BRA
+					delete_unit = { state = 302 }
+					delete_unit = { state = 487 }
+				}
+				PAR = {
+					release = BRA
+					delete_unit = { state = 301 }
+				}
+				CHL = {
+					release = BRA
+					delete_unit = { state = 506 }
+					delete_unit = { state = 279 }
+				}
+				ARG = {
+					release = BRA
+					delete_unit = { state = 278 }
+					delete_unit = { state = 510 }
+					delete_unit = { state = 511 }
+					delete_unit = { state = 512 }
+					delete_unit = { state = 508 }
+				}
+				URG = {
+					release = BRA
+					delete_unit = { state = 300 }
+				}
+				BRA = {
+					set_cosmetic_tag = BRA_UNIFIED
+				}
+			}
+			if = {
+				limit = {
+					has_game_rule = {
+						rule = mex_fragmentation_status
+						option = MEX_FRAGMENTED
+					}
+				}
+				311 = { 
+					add_core_of = PAN
+				}
+				313 = { 
+					add_core_of = PAN
+				}
+				312 = { 
+					add_core_of = PAN
+				}
+				314 = { 
+					add_core_of = PAN
+				}
+				316 = { 
+					add_core_of = PAN
+				}
+				317 = { 
+					add_core_of = PAN
+				}
+				304 = { 
+					add_core_of = PAN
+				}
+				318 = { 
+					add_core_of = CUB
+				}
+				319 = { 
+					add_core_of = CUB
+				}
+				GUA = {
+					release = PAN
+					delete_unit = { state = 313 }
+				}
+				ENG = {
+					release = PAN
+				}
+				ELS = {
+					release = PAN
+					delete_unit = { state = 314 }
+				}
+				HON = {
+					release = PAN
+					delete_unit = { state = 312 }
+				}
+				NIC = {
+					release = PAN
+					delete_unit = { state = 317 }
+				}
+				COS = {
+					release = PAN
+				}
+				HAI = {
+					release = CUB
+					delete_unit = { state = 318 }
+				}
+				DOM = {
+					release = CUB
+					delete_unit = { state = 319 }
+				}
+				PAN = {
+					set_cosmetic_tag = PAN_UNIFIED
+				}
+				CUB = {
+					set_cosmetic_tag = CUB_UNIFIED
+				}
+			}
+			if = {
+				limit = {
+					has_game_rule = {
+						rule = per_fragmentation_status
+						option = PER_FRAGMENTED
+					}
+				}
+				415 = { 
+					add_core_of = RAJ
+				}
+				267 = { 
+					add_core_of = RAJ
+				}
+				856 = { 
+					add_core_of = PER
+				}
+				858 = { 
+					add_core_of = PER
+				}
+				854 = { 
+					add_core_of = PER
+				}
+				855 = { 
+					add_core_of = PER
+				}
+				857 = { 
+					add_core_of = PER
+				}
+				859 = { 
+					add_core_of = PER
+				}
+				656 = { 
+					add_core_of = PER
+				}
+				291 = { 
+					add_core_of = PER
+				}
+				675 = { 
+					add_core_of = PER
+				}
+				676 = { 
+					add_core_of = PER
+				}
+				680 = { 
+					add_core_of = PER
+				}
+				677 = { 
+					add_core_of = PER
+				}
+				553 = { 
+					add_core_of = PER
+				}
+				554 = { 
+					add_core_of = PER
+				}
+				799 = { 
+					add_core_of = PER
+				}
+				454 = { 
+					add_core_of = PER
+				}
+				455 = { 
+					add_core_of = PER
+				}
+				679 = { 
+					add_core_of = PER
+				}
+				292 = { 
+					add_core_of = PER
+				}
+				765 = { 
+					add_core_of = PER
+				}
+				678 = { 
+					add_core_of = PER
+				}
+				658 = { 
+					add_core_of = PER
+				}
+				294 = { 
+					add_core_of = PER
+				}
+				659 = { 
+					add_core_of = PER
+				}
+				293 = { 
+					add_core_of = PER
+				}
+				ENG = {
+					release = PER
+				}
+				OMA = {
+					release = PER
+					delete_unit = { state = 294 }
+				}
+				YEM = {
+					release = PER
+					delete_unit = { state = 293 }
+				}
+				IRQ = {
+					release = PER
+					delete_unit = { state = 291 }
+					delete_unit = { state = 676 }
+				}
+				SAU = {
+					release = PER
+					delete_unit = { state = 679 }
+					delete_unit = { state = 292 }
+					delete_unit = { state = 856 }
+					delete_unit = { state = 858 }
+				}
+				FRA = {
+					release = PER
+				}
+				AFG = {
+					release = RAJ
+					delete_unit = { state = 415 }
+					delete_unit = { state = 267 }
+				}
+				PER = {
+					set_cosmetic_tag = PER_UNIFIED
+				}
+			}
+			if = {
+				limit = {
+					has_game_rule = {
+						rule = bel_fragmentation_status
+						option = BEL_FRAGMENTED
+					}
+				}
+				8 = { 
+					add_core_of = BEL
+				}
+				LUX = {
+					release = BEL
+					delete_unit = { state = 8 }
+				}
+			}
+			if = {
+				limit = {
+					has_game_rule = {
+						rule = bel_fragmentation_status
+						option = BEL_FRAGMENTED2
+					}
+				}
+				8 = { 
+					add_core_of = BEL
+				}
+				7 = { 
+					add_core_of = BEL
+				}
+				35 = { 
+					add_core_of = BEL
+				}
+				36 = { 
+					add_core_of = BEL
+				}
+				695 = { 
+					add_core_of = VEN
+				}
+				309 = { 
+					add_core_of = BRA
+				}
+				669 = { 
+					add_core_of = AST
+				}
+				LUX = {
+					release = BEL
+					delete_unit = { state = 8 }
+				}
+				HOL = {
+					delete_unit = { state = 7 }
+					delete_unit = { state = 35 }
+					delete_unit = { state = 36 }
+					release = INS
+					release = BEL
+					release = VEN
+					release = BRA
+					release = AST
+				}
+				BEL = {
+					set_cosmetic_tag = BEL_UNIFIED
+				}
+				INS = {
+					release = AST
+				}
+			}
+		}
+	}
+}
