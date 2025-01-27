@@ -50,3 +50,6 @@
  
  ship_fire_control_system_4:0 "Mark 37 Gun Fire Control System"
  ship_fire_control_system_4_desc:0 "A modern mechanical computer can track the course, speed, and distance of a target which allows increased target engagement and weapon accuracy."
+
+ modern_radio:0 "Modern Radio"
+ modern_radio_desc:0 "The modern radio is vastly superior to all radios that have come before it."
