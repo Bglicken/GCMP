@@ -2937,6 +2937,7 @@ focus_tree = {
 			any_country_with_original_tag = {
 				original_tag_to_check = SOV
 				has_government = communism
+				exists = yes
 				NOT = {
 					has_subject = ROOT
 				}
@@ -3036,6 +3037,7 @@ focus_tree = {
 			}
 			any_country_with_original_tag = {
 				original_tag_to_check = GER
+				exists = yes
 				OR = {
 					has_government = neutrality
 					has_government = fascism
@@ -6003,14 +6005,46 @@ focus_tree = {
 		}
 	
 		available = {
-			has_government = neutrality
+			
+			OR = {
+
+				has_government = neutrality
+
+				has_government = fascism
+
+			}
 		}
 	
 		completion_reward = { 
 			
-			add_popularity = {
-				ideology = neutrality
-				popularity = 0.05
+			
+			IF = {
+
+				limit = {
+
+					has_government = fascism
+
+				}
+
+				add_popularity = {
+
+					ideology = fascism
+
+					popularity = 0.05
+
+				}	
+
+			}
+
+			ELSE = {
+
+				add_popularity = {
+
+					ideology = neutrality
+
+					popularity = 0.05
+
+				}
 			}	
 			
 			custom_effect_tooltip = generic_skip_one_line_tt
