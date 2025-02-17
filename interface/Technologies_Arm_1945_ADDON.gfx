@@ -1,0 +1,107 @@
+spriteTypes = {
+
+	##Tank Modules
+	spriteType = {
+		name = "GFX_EMI_tank_radio_4"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/tank_module_radio_4.png"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_armor_skirts"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/tank_module_add_on_armor.png"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_armor_skirts_2"
+		textureFile = "gfx/interface/equipmentdesigner/tanks/modules/tank_module_add_on_armor_2.png"
+		legacy_lazy_load = no
+	}
+
+	##Techs
+	SpriteType = {
+		name = "GFX_modern_light_tank_chassis_medium"
+		texturefile = "gfx/interface/technologies/generic_modern_light_tank_chassis.png"
+	}
+
+	SpriteType = {
+		name = "GFX_light_tank_chassis_4_medium"
+		texturefile = "gfx/interface/technologies/generic_light_tank_chassis_3.png"
+	}
+
+	SpriteType = {
+		name = "GFX_light_tank_artillery_chassis_4_medium"
+		texturefile = "gfx/interface/technologies/generic_light_tank_artillery_chassis_3.png"
+	}
+
+	SpriteType = {
+		name = "GFX_light_tank_destroyer_chassis_4_medium"
+		texturefile = "gfx/interface/technologies/generic_light_tank_destroyer_chassis_3.png"
+	}
+
+	SpriteType = {
+		name = "GFX_light_tank_aa_chassis_4_medium"
+		texturefile = "gfx/interface/technologies/generic_light_tank_chassis_3.png"
+	}
+
+	SpriteType = {
+		name = "GFX_antiair6_medium"
+		texturefile = "gfx/interface/technologies/antiair6.png"
+	}
+
+	SpriteType = {
+		name = "GFX_antiair7_medium"
+		texturefile = "gfx/interface/technologies/antiair7.png"
+	}
+
+	SpriteType = {
+		name = "GFX_antitank6_medium"
+		texturefile = "gfx/interface/technologies/antitank6.png"
+	}
+
+	SpriteType = {
+		name = "GFX_antitank7_medium"
+		texturefile = "gfx/interface/technologies/antitank7.png"
+	}
+
+	SpriteType = {
+		name = "GFX_artillery6_medium"
+		texturefile = "gfx/interface/technologies/artillery6.png"
+	}
+
+	SpriteType = {
+		name = "GFX_artillery7_medium"
+		texturefile = "gfx/interface/technologies/artillery7.png"
+	}
+
+	SpriteType = {
+		name = "GFX_rocket_artillery5_medium"
+		texturefile = "gfx/interface/technologies/rocket_artillery5.png"
+	}
+
+	SpriteType = {
+		name = "GFX_rocket_artillery6_medium"
+		texturefile = "gfx/interface/technologies/rocket_artillery6.png"
+	}
+
+	SpriteType = {
+		name = "GFX_rocket_artillery_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/rocket_artillery_equipment_3.png"
+	}
+
+	SpriteType = {
+		name = "GFX_artillery_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/artillery_equipment_4.png"
+	}
+
+	SpriteType = {
+		name = "GFX_anti_air_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/anti_air_equipment_4.png"
+	}
+
+	SpriteType = {
+		name = "GFX_anti_tank_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/anti_tank_equipment_4.png"
+	}
+}

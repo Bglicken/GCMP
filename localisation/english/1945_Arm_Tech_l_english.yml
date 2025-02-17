@@ -1,0 +1,76 @@
+﻿l_english:
+
+ tank_radio_4:0 "Modern Radio"
+ tank_radio_4_desc:0 "Developed with advanced frequency-hopping technology, this radio offers secure and reliable communication even in the presence of heavy enemy jamming. Its extended range and improved audio quality allow commanders to communicate effectively with their tank crews and headquarters over long distances, enhancing situational awareness and enabling coordinated battlefield tactics."
+ 
+ antiair6:0 "Advanced Anti-Air Upgrade I"
+ antiair6_desc:0 "This upgrade enhances the anti-aircraft capabilities of units by utilizing advanced targeting systems and more powerful ammunition. It also features a more efficient cooling system and is mounted on a stable platform for improved protection and flexibility."
+ 
+ antitank6:0 "Advanced Anti-Tank Upgrade I"
+ antitank6_desc:0 "Upgraded anti-tank weaponry can deliver more firepower and accuracy to destroy enemy armor, while also offering increased range and better mobility in difficult terrain. Additionally, advanced guidance systems and armor-penetrating rounds allow for increased success in taking out heavily armored targets."
+ 
+ artillery6:0 "Advanced Artillery Upgrade II"
+ artillery6_desc:0 "Incorporating automated loading systems and computerized aiming controls, this upgrade greatly improves the speed and accuracy of the artillery, allowing for more effective targeting and engagement of enemy forces."
+ 
+ artillery7:0 "Modern Artillery"
+ artillery7_desc:0 "This artillery system is designed to be easily transported to even more hard-to-reach areas, providing increased support to ground troops in previously inaccessible locations. It is lightweight and can be quickly broken down for transport."
+ 
+ super_heavy_tank_chassis_0_short:0 "1941 Super-Heavy"
+ super_heavy_tank_chassis_0:0 "Basic Super-Heavy Tank Chassis"
+ super_heavy_tank_chassis_0_desc:0 "A huge vehicle, capabale of mounting even heavier armor and the largest gun, but lacking heavily on speed and reliability."
+ 
+ super_heavy_tank_chassis_short:0 "1943 Super-Heavy"
+ super_heavy_tank_chassis:0 "Improved Super-Heavy Tank Chassis"
+ 
+ super_heavy_tank_chassis_2_short:0 "1945 Super-Heavy"
+ super_heavy_tank_chassis_2:0 "Advanced Super-Heavy Tank Chassis"
+ super_heavy_tank_chassis_2_desc:0 "The largest tank ever fielded, equipped with more armor and firepower than any tank or armored vehicle that came before it."
+ 
+ modern_light_tank_chassis_short:0 "1943 Light"
+ modern_light_tank_chassis:0 "Modern Light Tank Chassis"
+ modern_light_tank_chassis_desc:0 "Also known as the 'Speed Demon' by any that come accross this wonder of engineering, the 1943 Light Tank brings extreme speed and reliability at the expense of armor and firepower; although, it still brings quite a bit of armor and firepower to the battlefield."
+ 
+ artillery_equipment_4:0 "Modern Artillery"
+ artillery_equipment_4_desc:0 "This artillery system is designed to be easily transported to even more hard-to-reach areas, providing increased support to ground troops in previously inaccessible locations. It is lightweight and can be quickly broken down for transport."
+ 
+ super_heavy_tank_equipment_0:0 "Basic Super-Heavy Tank Chassis"
+ super_heavy_tank_equipment_0_desc:0 "A huge vehicle, capabale of mounting even heavier armor and the largest gun, but lacking heavily on speed and reliability."
+ 
+ super_heavy_tank_equipment_1:0 "Improved Super-Heavy Tank Chassis"
+ 
+ super_heavy_tank_equipment_2:0 "Advanced Super-Heavy Tank Chassis"
+ super_heavy_tank_equipment_2_desc:0 "The largest tank ever fielded, equipped with more armor and firepower than any tank or armored vehicle that came before it."
+ 
+ light_tank_chassis_4:0 "Modern Light Tank Chassis"
+ light_tank_chassis_4_desc:0 "Also known as the 'Speed Demon' by any that come accross this wonder of engineering, the 1943 Light Tank brings extreme speed and reliability at the expense of armor and firepower; although, it still brings quite a bit of armor and firepower to the battlefield."
+ light_tank_equipment_4:0 "Modern Light Tank Chassis"
+ 
+ armor_skirts_2:0 "Improved Armor Skirts"
+ armor_skirts_2_desc:0 "A set of thin, reinforced metal plates mounted on the side and underside of the vehicle, giving a significant improvement in protection against anti-tank rifles and other heavy weaponry."
+ 
+ GER_artillery_equipment_4:0 "16.5 cm Kanone 21"
+ 
+ SOV_artillery_equipment_4:0 "M1945 122 mm"
+ 
+ USA_artillery_equipment_4:0 "155 mm M198" 
+ 
+ antitank7:0 "Modern Anti-Tank"
+ antitank7_desc:0 "With increased muzzle velocities and ammunition improvements, these anti-tank guns are prepared for any tank armor that has been or will be developed by any army on the planet."
+ 
+ antiair7:0 "Modern Anti-Air"
+ antiair7_desc:0 "A modernized mobile flak gun with even greater reach and firing capacity, to combat the most elite and technologically advanced enemy aircraft"
+ 
+ rocket_artillery5:0 "Improved Rocket Artillery Upgrade I"
+ rocket_artillery5_desc:0 "By further increasing velocity and damage radius, we can mount faster and more descructive rockets on larger vehicles."
+ 
+ rocket_artillery6:0 "Advanced Rocket Artillery"
+ rocket_artillery6_desc:0 "Improved rocket stability and increased range and velocity make the perfect weapon."
+ 
+ rocket_artillery_equipment_3:0 "Advanced Rocket Artillery"
+ rocket_artillery_equipment_3_desc:0 "Improved rocket stability and increased range and velocity make the perfect weapon."
+ 
+ anti_air_equipment_4:0 "Modern Anti-Air"
+ anti_air_equipment_4_desc:0 "A modernized mobile flak gun with even greater reach and firing capacity, to combat the most elite and technologically advanced enemy aircraft"
+ 
+ anti_tank_equipment_4:0 "Modern Anti-Tank"
+ anti_tank_equipment_4_desc:0 "With increased muzzle velocities and ammunition improvements, these anti-tank guns are prepared for any tank armor that has been or will be developed by any army on the planet."

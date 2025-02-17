@@ -1,0 +1,243 @@
+spriteTypes = {
+
+	##Naval Techs
+	
+	SpriteType = {
+		name = "GFX_advanced_sonar_medium"
+		texturefile = "gfx/interface/technologies/advanced_sonar.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_modern_sonar_medium"
+		texturefile = "gfx/interface/technologies/modern_sonar.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_electric_torpedo_medium"
+		texturefile = "gfx/interface/technologies/electric_torpedo.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_improved_electric_torpedo_medium"
+		texturefile = "gfx/interface/technologies/electric_torpedo2.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_damage_control_4_medium"
+		texturefile = "gfx/interface/technologies/damage_control_4.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_fire_control_methods_4_medium"
+		texturefile = "gfx/interface/technologies/fire_control_methods_4.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_degaussing_2_medium"
+		texturefile = "gfx/interface/technologies/degaussing_2.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_advanced_submarine_mine_laying_medium"
+		texturefile = "gfx/interface/technologies/advanced_submarine_mine_laying.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_advanced_airplane_launcher_medium"
+		texturefile = "gfx/interface/technologies/improved_airplane_launcher2.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_modern_airplane_launcher_medium"
+		texturefile = "gfx/interface/technologies/improved_airplane_launcher3.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_improved_modern_airplane_launcher_medium"
+		texturefile = "gfx/interface/technologies/improved_airplane_launcher4.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_advanced_heavy_armor_scheme_medium"
+		texturefile = "gfx/interface/technologies/advanced_heavy_armor_scheme.png"
+	}
+	
+	##Air Techs
+	
+	spriteType = {
+		name = "GFX_range_improvements_medium"
+		textureFile = "gfx/interface/technologies/bba_tech_range_improvements.png"
+	}
+	
+	spriteType = {
+		name = "GFX_improved_range_improvements_medium"
+		textureFile = "gfx/interface/technologies/bba_tech_range_improvements2.png"
+	}
+	
+	spriteType = {
+		name = "GFX_advanced_range_improvements_medium"
+		textureFile = "gfx/interface/technologies/bba_tech_range_improvements3.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_aa_ihmg_medium"
+		texturefile = "gfx/interface/technologies/ihmg.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_scout_plane_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/1944_Scout_Plane.png"
+	}
+	
+	SpriteType = {
+		name = "GFX_scout_plane3_medium"
+		texturefile = "gfx/interface/technologies/1944_Scout_Plane.png"
+	}
+	
+	##Air Modules
+	spriteType = {
+		name = "GFX_EMI_air_ground_radar_3"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_air_ground_radar_3_icon.png"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_air_air_radar_3"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_air_air_radar_3_icon.png"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_radio_navigation_3"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_radio_navigation_3_icon.png"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_bomb_sights_3"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_bomb_sights_3_icon.png"
+		legacy_lazy_load = no
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_drop_tanks"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_drop_tanks_icon.png"
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_drop_tanks_2"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_drop_tanks_icon2.png"
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_drop_tanks_3"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_drop_tanks_icon3.png"
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_improved_heavy_mg_2x"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_improved_heavy_mg_2_icon.png"
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_improved_heavy_mg_4x"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_improved_heavy_mg_4_icon.png"
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_improved_hmg_defense_turret"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_ihmg_turret_1_icon.png"
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_improved_hmg_defense_turret_2x"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/airplane_ihmg_turret_2_icon.png"
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_fuel_tanks_small_2"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/improved_fuel_tanks.png"
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_fuel_tanks_small_3"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/advanced_fuel_tanks.png"
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_fuel_tanks_medium_2"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/improved_fuel_tanks.png"
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_fuel_tanks_medium_3"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/advanced_fuel_tanks.png"
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_fuel_tanks_large_2"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/improved_fuel_tanks.png"
+	}
+	
+	spriteType = {
+		name = "GFX_EMI_fuel_tanks_large_3"
+		textureFile = "gfx/interface/equipmentdesigner/planes/modules/advanced_fuel_tanks.png"
+	}
+	
+	##Naval Modules
+	spriteType = {
+		name = "GFX_SMI_ship_radar_5"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/radar_icn_5.png"
+	}
+	
+	spriteType = {
+		name = "GFX_SMI_ship_sonar_3"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/sonar_icn3.png"
+	}
+	
+	spriteType = {
+		name = "GFX_SMI_ship_sonar_4"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/sonar_icn4.png"
+	}
+	
+	spriteType = {
+		name = "GFX_SMI_ship_airplane_launcher_3"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/airplane_launcher_icn_3.png"
+	}
+	
+	spriteType = {
+		name = "GFX_SMI_ship_airplane_launcher_4"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/airplane_launcher_icn_4.png"
+	}
+	
+	spriteType = {
+		name = "GFX_SMI_ship_airplane_launcher_5"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/airplane_launcher_icn_5.png"
+	}
+	
+	spriteType = {
+		name = "GFX_SMI_ship_anti_air_5"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/anti_air_icn_5.png"
+	}
+	
+	spriteType = {
+		name = "GFX_SMI_ship_armor_bc_4"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/armor_icn_4.png"
+	}
+	
+	spriteType = {
+		name = "GFX_SMI_ship_armor_cruiser_5"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/armor_thin_icn_5.png"
+	}
+	
+	spriteType = {
+		name = "GFX_SMI_ship_armor_thin_5"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/armor_thin_icn_5.png"
+	}
+	
+	spriteType = {
+		name = "GFX_SMI_ship_armor_4"
+		textureFile = "gfx/interface/equipmentdesigner/naval/modules/icons/armor_icn_4.png"
+	}
+
+}
