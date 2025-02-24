@@ -65,7 +65,6 @@
 no_garrison = {
 	icon = 1
 	sound_effect = "Martial_Law_Interface_No_Garrison"
-	default_law = yes
 	starting_law = yes
 
 	state_modifier = {
@@ -145,6 +144,7 @@ autonomous_occupation = {
 
 foreign_civilian_oversight = {
 	icon = 3
+	default_law = yes
 	sound_effect = "Martial_Law_Interface_Foreign_Cvilian_Oversight"
 
 	state_modifier = {
