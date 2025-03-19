@@ -7062,7 +7062,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = GER_construct_aircraft_carriers
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -7137,7 +7137,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = GER_strengthen_the_kriegsmarine
-		cost = 10
+		cost = 5
 		available = {
 		}
 
@@ -10734,7 +10734,7 @@ focus_tree = {
 	#	search_filters = { FOCUS_FILTER_HISTORICAL FOCUS_FILTER_POLITICAL }
 	#
 	#	completion_reward = {
-	#	custom_effect_tooltip = "TODO_Manu: Effects are underwhelming, need something new"
+	#	custom_effect_tooltip = "MM: Effects are underwhelming, need something new"
 	#		if = {
 	#			limit = {
 	#				HUN = {
@@ -11716,7 +11716,7 @@ focus_tree = {
 		x = -1
 		y = 2
 		relative_position_id = GER_danzig_or_war
-		cost = 5
+		cost = 4
 
 		will_lead_to_war_with = BEL
 		will_lead_to_war_with = HOL
@@ -11869,7 +11869,7 @@ focus_tree = {
 		x = 1
 		y = 2
 		relative_position_id = GER_danzig_or_war
-		cost = 5
+		cost = 4
 
 		will_lead_to_war_with = DEN 
 		will_lead_to_war_with = NOR
@@ -14140,7 +14140,7 @@ focus_tree = {
 		x = 2
 		y = 0
 		relative_position_id = GER_reorganize_the_wehrmacht
-		cost = 2
+		cost = 5
 		
 		bypass = {
 			SOU = {
@@ -31957,7 +31957,7 @@ focus_tree = {
 		y = 1
 		relative_position_id = GER_reject_the_locarno_treaty
 
-		cost = 5
+		cost = 4
 
 		available = {
 			is_subject = no
@@ -32899,6 +32899,7 @@ focus_tree = {
 		completion_reward = {
 			
 			add_named_threat = { threat = 3 name = GER_unify_west_africa }
+			
 			every_other_country = {
 				limit = {
 					NOT = {
@@ -35317,7 +35318,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		relative_position_id = GER_focus_on_the_true_enemy
-		cost = 5
+		cost = 10
 		ai_will_do = {
 			factor = 1
 		}
@@ -36584,7 +36585,7 @@ focus_tree = {
 		x = 1
 		y = 1
 		relative_position_id = GER_support_the_finns
-		cost = 10
+		cost = 5
 		available = {
 			is_subject = no
 			NOT = { has_government = communism }
@@ -38161,90 +38162,4 @@ focus_tree = {
 		}
 	}
 
-
-
-######################################
-######### INNER CIRCLE DEBUG #########
-######################################
-
-#	focus = {
-#		id = GER_RESET_INNER_CIRCLE #TODO_Manu: REMOVE WHEN APPROPRIATE!!
-#		x = -2
-#		y = 0
-#		relative_position_id = GER_fuhrerprinzip
-#		cost = 0
-#		ai_will_do = {
-#			factor = 0
-#		}
-#		allow_branch = { #TODO_Manu: Enable later! (Adjust shared focuses if any)
-#			if = {
-#				limit = {
-#					has_game_rule = {
-#						rule = obsolete_focus_branches_visibility
-#						option = HIDE
-#					}
-#				}
-#				NOT = {
-#					OR = {
-#						has_completed_focus = GER_oppose_hitler
-#						has_completed_focus = GER_oppose_hitler_ww
-#					}
-#				}
-#			}
-#		}
-#		completion_reward = {
-#			custom_effect_tooltip = "DEBUG: RESTES INNER CIRCLE ADVISORS (and removes their modifiers)"
-	
-#			set_variable = { GER_ascended_advisor_1 = 0 } #Ascended Advisor Portrait
-#			set_variable = { GER_ascended_advisor_2 = 0 } #Ascended Advisor Portrait
-#			set_variable = { GER_ascended_advisor_3 = 0 } #Ascended Advisor Portrait
-#			uncomplete_national_focus = {
-#				focus = GER_ascension_of_todt
-#				uncomplete_children = yes
-#				refund_political_power = no
-#			}
-#			uncomplete_national_focus = {
-#				focus = GER_ascension_of_speer
-#				uncomplete_children = yes
-#				refund_political_power = no
-#			}
-#			uncomplete_national_focus = {
-#				focus = GER_ascension_of_goring
-#				uncomplete_children = yes
-#				refund_political_power = no
-#			}
-#			uncomplete_national_focus = {
-#				focus = GER_ascension_of_himmler
-#				uncomplete_children = yes
-#				refund_political_power = no
-#			}
-#			uncomplete_national_focus = {
-#				focus = GER_ascension_of_goebbels
-#				uncomplete_children = yes
-#				refund_political_power = no
-#			}
-#			uncomplete_national_focus = {
-#				focus = GER_party_chancellor_hess
-#				uncomplete_children = yes
-#				refund_political_power = no
-#			}
-#			uncomplete_national_focus = {
-#				focus = GER_party_chancellor_bormann
-#				uncomplete_children = yes
-#				refund_political_power = no
-#			}
-	
-#			GER_remove_todt_effects = yes
-#			GER_remove_speer_effects = yes
-#			GER_remove_goring_effects = yes
-#			GER_remove_himmler_effects = yes
-#			GER_remove_goebbels_effects = yes
-#			GER_remove_hess_effects = yes
-#			GER_remove_bormann_effects = yes
-	
-#			uncomplete_national_focus = {
-#				focus = GER_RESET_INNER_CIRCLE
-#			}
-#		}
-#	}
 }

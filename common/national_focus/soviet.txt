@@ -14679,6 +14679,12 @@ ai_will_do = {
 			modifier = {
 				factor = 0
 				has_civil_war = yes
+			}
+			modifier = {
+				factor = 0
+				PER = {
+					has_government = ROOT
+				}
 			}	
 		}
 		will_lead_to_war_with = PER
